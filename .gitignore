@@ -1,0 +1,12 @@
+**/__pycache__/
+featurization/data/
+artifacts/
+*.tsv
+**/.amlignore.amltmp
+**/.amlignore
+**/*.amltmp
+.env
+exp/
+.vscode/
+.DS_Store
+**/.DS_Store

@@ -1,0 +1,1801 @@
+type,feature,id,dataset,group
+baseline,describe historical sports seasons and team records.,0,dbpedia,0
+baseline,highlight airport locations and specifications.,1,dbpedia,0
+baseline,provide biographical details about comic book artists.,2,dbpedia,0
+baseline,discuss fictional characters from anime and manga series.,3,dbpedia,0
+baseline,cover historical or contemporary painter backgrounds.,4,dbpedia,0
+baseline,detail operations and specifications of hydroelectric dams.,5,dbpedia,0
+baseline,highlight fashion designers and their contributions.,6,dbpedia,0
+baseline,provide insights into Roman Catholic dioceses.,7,dbpedia,0
+baseline,describe comedians and their television contributions.,8,dbpedia,0
+baseline,cover the construction and impact of specific dams.,9,dbpedia,0
+baseline,describe airports and their passenger statistics.,10,dbpedia,0
+baseline,highlight achievements in indoor football league seasons.,11,dbpedia,0
+baseline,detail the origin and history of particular franchises.,12,dbpedia,0
+baseline,describe fictional character development in anime series.,13,dbpedia,0
+baseline,cover historical football team records and achievements.,14,dbpedia,0
+baseline,highlight the features and purposes of airstrips.,15,dbpedia,0
+baseline,detail the era and style of fashion designers.,16,dbpedia,0
+baseline,discuss the history of prominent Roman Catholic churches.,17,dbpedia,0
+baseline,describe individual crimes or incidents involving characters.,18,dbpedia,0
+baseline,cover interconnected relationships of anime characters.,19,dbpedia,0
+baseline,describe the context and history of particular artworks.,20,dbpedia,0
+baseline,detail manga series protagonists and their abilities.,21,dbpedia,0
+baseline,highlight key information about Roman Catholic archdioceses.,22,dbpedia,0
+baseline,cover the history and usage of Royal Air Force stations.,23,dbpedia,0
+baseline,describe the development and features of character voices.,24,dbpedia,0
+baseline,discuss hydroelectric dam construction and their regional significance.,25,dbpedia,0
+baseline,cover foundational and growth aspects of high schools.,26,dbpedia,0
+baseline,describe formation and key events of religious dioceses.,27,dbpedia,0
+baseline,highlight significant records of Roman Catholic dioceses.,28,dbpedia,0
+baseline,cover the introduction and journey of fictional characters.,29,dbpedia,0
+baseline,provide history and purpose of concrete dams.,30,dbpedia,0
+baseline,discuss aspects of Christian religious orders and dioceses.,31,dbpedia,0
+baseline,cover the background and works of Italian painters.,32,dbpedia,0
+baseline,describe the thematic focuses and styles of designers.,33,dbpedia,0
+baseline,detail fictional characters in context of series and films.,34,dbpedia,0
+baseline,cover structural purpose and historical significance of airfields.,35,dbpedia,0
+baseline,highlight the significance of fashion designers in history.,36,dbpedia,0
+baseline,cover voice acting and media reception of characters.,37,dbpedia,0
+baseline,highlight specific Roman Catholic dioceses in various regions.,38,dbpedia,0
+baseline,provide historical context of fictional anime narratives.,39,dbpedia,0
+baseline,describe achievements in professional leagues and championships.,40,dbpedia,0
+baseline,cover the historical significance of unique sports seasons.,41,dbpedia,0
+baseline,provide biographies of contemporary and historical artists.,42,dbpedia,0
+baseline,describe the scenic locations associated with certain artists.,43,dbpedia,0
+baseline,highlight religious organization and administration details.,44,dbpedia,0
+baseline,cover protagonist backgrounds in TV series adaptations.,45,dbpedia,0
+baseline,describe artist involvement in paranormal or supernatural themes.,46,dbpedia,0
+baseline,address operational changes and historical contexts of airports.,47,dbpedia,0
+baseline,provide insight into the growth of airports.,48,dbpedia,0
+baseline,provide insight into the growth of airports.,49,dbpedia,0
+prompting,The selected string lacks detailed biographical information.,0,dbpedia,0
+prompting,The selected string uses Japanese characters for a name.,1,dbpedia,0
+prompting,The selected string includes multiple adaptations and portrayals of the character.,2,dbpedia,0
+prompting,The selected string uses Japanese characters for a name.,3,dbpedia,0
+prompting,The selected string is suitable for a sports audience.,4,dbpedia,0
+prompting,The selected string focuses on a specific sports team.,5,dbpedia,0
+prompting,The selected string is concise with fewer personal achievements.,6,dbpedia,0
+prompting,The selected string specifies ecclesiastical hierarchy and affiliations.,7,dbpedia,0
+prompting,The selected string focuses on an individual person.,8,dbpedia,0
+prompting,The selected string is concise and to the point.,9,dbpedia,0
+prompting,The selected string uses technical aviation terminology and codes.,10,dbpedia,0
+prompting,The selected string provides extensive career achievements and accolades.,11,dbpedia,0
+prompting,The selected string omits specific geographic or cultural context.,12,dbpedia,0
+prompting,The selected string is concise with minimal historical context.,13,dbpedia,0
+prompting,The selected string highlights a historic sports achievement.,14,dbpedia,0
+prompting,The selected string lacks detailed historical or contextual background.,15,dbpedia,0
+prompting,The selected string specifies a geographical location in Brazil.,16,dbpedia,0
+prompting,The selected string focuses on a religious administrative region.,17,dbpedia,0
+prompting,"The selected string highlights a long-lasting project, nine years.",18,dbpedia,0
+prompting,The selected string uses formal and factual language.,19,dbpedia,0
+prompting,The selected string omits technical or specialized terminology.,20,dbpedia,0
+prompting,The selected string mentions a historical unification event.,21,dbpedia,0
+prompting,The selected string lacks historical or statistical data.,22,dbpedia,0
+prompting,The selected string uses a narrative style with chronological events.,23,dbpedia,0
+prompting,The selected string lacks personal or biographical elements.,24,dbpedia,0
+prompting,The selected string mentions specific political and geographical changes.,25,dbpedia,0
+prompting,The selected string is set in a fictional feudal world.,26,dbpedia,0
+prompting,The selected string includes specific birthdate and birthplace details.,27,dbpedia,0
+prompting,"The selected string uses a straightforward, factual tone throughout.",28,dbpedia,0
+prompting,The selected string emphasizes factual data over narrative storytelling.,29,dbpedia,0
+prompting,The selected string references multiple media adaptations and sequels.,30,dbpedia,0
+prompting,The selected string involves a quest for mystical objects.,31,dbpedia,0
+prompting,The selected string includes specific game scores and outcomes.,32,dbpedia,0
+prompting,The selected string includes specific player statistics and achievements.,33,dbpedia,0
+prompting,The selected string mentions a retail chain connection.,34,dbpedia,0
+prompting,The selected string provides birth and death years of the subject.,35,dbpedia,0
+prompting,The selected string highlights Italian Renaissance setting.,36,dbpedia,0
+prompting,The selected string includes specific passenger statistics and data.,37,dbpedia,0
+prompting,"The selected string includes a nickname, 'Weezie'.",38,dbpedia,0
+prompting,The selected string focuses on a fictional character's narrative.,39,dbpedia,0
+prompting,"The selected string references a specific cultural event, Anime Festival Asia.",40,dbpedia,0
+prompting,The selected string is concise and to the point.,41,dbpedia,0
+prompting,The selected string highlights character's popularity in series' polls.,42,dbpedia,0
+prompting,The selected string lacks geographical or institutional affiliations.,43,dbpedia,0
+prompting,The selected string describes a specific engineering structure.,44,dbpedia,0
+prompting,The selected string includes Latin terminology and ecclesiastical references.,45,dbpedia,0
+prompting,The selected string mentions specific fines and penalties.,46,dbpedia,0
+prompting,The selected string describes a geographical location and infrastructure.,47,dbpedia,0
+prompting,The selected string highlights involvement in multiple entertainment formats.,48,dbpedia,0
+prompting,The selected string mentions a specific city location in Peru.,49,dbpedia,0
+featurization,The selected string focuses on a religious administrative region.,0,dbpedia,0
+featurization,The selected string includes multiple media appearances and adaptations.,1,dbpedia,0
+featurization,The selected string focuses on a single dam project.,2,dbpedia,0
+featurization,The selected string includes specific game outcomes and records.,3,dbpedia,0
+featurization,The selected string focuses on an individual artist's biography.,4,dbpedia,0
+featurization,The selected string uses technical identifiers like TC LID: CAG6.,5,dbpedia,0
+featurization,The selected string focuses on a single individual's biography.,6,dbpedia,0
+featurization,The selected string includes a non-English language script.,7,dbpedia,0
+featurization,The selected string highlights achievements in the comic book field.,8,dbpedia,0
+featurization,The selected string focuses on a religious diocese.,9,dbpedia,0
+featurization,The selected string focuses on aviation and airport details.,10,dbpedia,0
+featurization,The selected string includes a disambiguation note for clarity.,11,dbpedia,0
+featurization,The selected string includes Japanese language and translation details.,12,dbpedia,0
+featurization,The selected string mentions multiple media appearances of the character.,13,dbpedia,0
+featurization,The selected string describes ownership and management details.,14,dbpedia,0
+featurization,The selected string focuses on a single season's performance.,15,dbpedia,0
+featurization,The selected string includes historical operational details.,16,dbpedia,0
+featurization,The selected string focuses on a historical art figure.,17,dbpedia,0
+featurization,The selected string focuses on a single location.,18,dbpedia,0
+featurization,The selected string focuses on a specific sports team history.,19,dbpedia,0
+featurization,The selected string highlights a career in entertainment.,20,dbpedia,0
+featurization,The selected string includes detailed biographical information about an artist.,21,dbpedia,0
+featurization,The selected string focuses on a specific sports team.,22,dbpedia,0
+featurization,The selected string involves a science fiction and fantasy setting.,23,dbpedia,0
+featurization,The selected string focuses on a single fictional character.,24,dbpedia,0
+featurization,The selected string highlights a familial relationship between subjects.,25,dbpedia,0
+featurization,The selected string references an anime adaptation.,26,dbpedia,0
+featurization,The selected string includes multiple language translations.,27,dbpedia,0
+featurization,The selected string focuses on a transportation facility.,28,dbpedia,0
+featurization,The selected string focuses on religious and ecclesiastical content.,29,dbpedia,0
+featurization,The selected string describes a current organizational structure.,30,dbpedia,0
+featurization,The selected string includes specific publication details and dates.,31,dbpedia,0
+featurization,The selected string mentions awards and nominations.,32,dbpedia,0
+featurization,The selected string includes specific exhibition names and locations.,33,dbpedia,0
+featurization,"The selected string highlights a specific sports league, the NFL.",34,dbpedia,0
+featurization,The selected string highlights character's popularity in specific polls.,35,dbpedia,0
+featurization,The selected string features a duo as central characters.,36,dbpedia,0
+featurization,The selected string contains critical reception and reviews.,37,dbpedia,0
+featurization,The selected string highlights a specific award and year.,38,dbpedia,0
+featurization,The selected string specifies ecclesiastical hierarchy with 'suffragan'.,39,dbpedia,0
+featurization,The selected string mentions a specific bishop by name.,40,dbpedia,0
+featurization,The selected string mentions a specific award received.,41,dbpedia,0
+featurization,The selected string discusses character popularity and merchandise.,42,dbpedia,0
+featurization,The selected string emphasizes a character's adversarial role.,43,dbpedia,0
+featurization,The selected string includes voice actor information for two languages.,44,dbpedia,0
+featurization,The selected string focuses on a historical figure.,45,dbpedia,0
+featurization,The selected string includes a specific date for facility change.,46,dbpedia,0
+featurization,The selected string includes specific geographic coordinates and distances.,47,dbpedia,0
+featurization,The selected string mentions voice actors for different language versions.,48,dbpedia,0
+featurization,The selected string focuses on a single individual.,49,dbpedia,0
+baseline,mention beach volleyball as a main subject.,0,dbpedia,1
+baseline,discuss the history of baronetcies.,1,dbpedia,1
+baseline,describe Supreme Court cases in the United States.,2,dbpedia,1
+baseline,talk about hotels or resorts.,3,dbpedia,1
+baseline,focus on speedway riders' careers.,4,dbpedia,1
+baseline,discuss the architecture of museums or castles.,5,dbpedia,1
+baseline,highlight beach volleyball achievements at the Olympics.,6,dbpedia,1
+baseline,describe gallery exhibitions.,7,dbpedia,1
+baseline,are about religious or historical buildings.,8,dbpedia,1
+baseline,center around museums dedicated to specific themes.,9,dbpedia,1
+baseline,detail the involvement in international volleyball circuits.,10,dbpedia,1
+baseline,provide background on historic court cases.,11,dbpedia,1
+baseline,describe achievements in motorcycle racing.,12,dbpedia,1
+baseline,mention authors of significant legislature.,13,dbpedia,1
+baseline,center on political careers in the UK.,14,dbpedia,1
+baseline,discuss the founding of sports-related organizations.,15,dbpedia,1
+baseline,describe national parks or conservation areas.,16,dbpedia,1
+baseline,explore historic figures in politics and their legacy.,17,dbpedia,1
+baseline,feature regional outlets or shopping complexes.,18,dbpedia,1
+baseline,describe the founding and operation of educational institutions.,19,dbpedia,1
+baseline,cover law cases concerned with citizenship rights.,20,dbpedia,1
+baseline,document partnerships and achievements in beach volleyball tournaments.,21,dbpedia,1
+baseline,narrate historical events involving military operations.,22,dbpedia,1
+baseline,mention United States museum organizations.,23,dbpedia,1
+baseline,describe historical culinary establishments.,24,dbpedia,1
+baseline,reference educational achievements and community involvement.,25,dbpedia,1
+baseline,relate to restoration and preservation of architectural landmarks.,26,dbpedia,1
+baseline,mention partnerships in court casting.,27,dbpedia,1
+baseline,are about partnerships in Olympic-level sports.,28,dbpedia,1
+baseline,talk about the development of legal terms or rights.,29,dbpedia,1
+baseline,involve national or international sporting events.,30,dbpedia,1
+baseline,contain themes of military involvement and citizenship.,31,dbpedia,1
+baseline,focus on judiciary cases of segregation.,32,dbpedia,1
+baseline,contain information about historic buildings and crimes associated.,33,dbpedia,1
+baseline,reference the architectural history of hotels.,34,dbpedia,1
+baseline,provide context on speedway riders' achievements.,35,dbpedia,1
+baseline,highlight international volunteering in sporting contexts.,36,dbpedia,1
+baseline,involve themes of restoration within sporting contexts.,37,dbpedia,1
+baseline,overview beach volleyball teams' achievements.,38,dbpedia,1
+baseline,describe infrastructure contributions to scientific and educational exploration.,39,dbpedia,1
+baseline,document personal achievements in the field of arts.,40,dbpedia,1
+baseline,center on legal precedents concerning religious expressions.,41,dbpedia,1
+baseline,detail significant events at museums.,42,dbpedia,1
+baseline,overview cases of political campaigns and elections.,43,dbpedia,1
+baseline,detail significant property designations or ownership.,44,dbpedia,1
+baseline,highlight cultural exhibitions in museums.,45,dbpedia,1
+baseline,overview permissions in legal frameworks.,46,dbpedia,1
+baseline,describe notable court verdicts and legal conclusions.,47,dbpedia,1
+baseline,provide history on families carrying baronetcies.,48,dbpedia,1
+baseline,highlight legislative developments and corresponding court decisions.,49,dbpedia,1
+prompting,The selected string focuses on a single achievement.,0,dbpedia,1
+prompting,"The selected string uses a straightforward, factual tone.",1,dbpedia,1
+prompting,The selected string uses precise date ranges for service.,2,dbpedia,1
+prompting,"The selected string uses a straightforward, factual tone.",3,dbpedia,1
+prompting,The selected string uses Norwegian language for a name.,4,dbpedia,1
+prompting,The selected string mentions multiple locations within a single parish.,5,dbpedia,1
+prompting,The selected string includes specific dates of birth and death.,6,dbpedia,1
+prompting,The selected string focuses on legal implications and historic preservation.,7,dbpedia,1
+prompting,The selected string focuses on a single individual's sports career.,8,dbpedia,1
+prompting,The selected string questions judicial discretion in damage assessment.,9,dbpedia,1
+prompting,The selected string uses a chronological event description.,10,dbpedia,1
+prompting,The selected string focuses on a single individual's profession.,11,dbpedia,1
+prompting,The selected string uses a nickname in quotation marks.,12,dbpedia,1
+prompting,The selected string focuses on a sports achievement.,13,dbpedia,1
+prompting,The selected string includes historical and architectural details.,14,dbpedia,1
+prompting,The selected string mentions a geographical location in Minnesota.,15,dbpedia,1
+prompting,The selected string lacks personal or biographical details.,16,dbpedia,1
+prompting,The selected string lacks detailed background information.,17,dbpedia,1
+prompting,The selected string focuses on a single individual's achievement.,18,dbpedia,1
+prompting,The selected string uses a formal and analytical writing style.,19,dbpedia,1
+prompting,"The selected string uses a regional setting, Aberdeenshire, Scotland.",20,dbpedia,1
+prompting,The selected string is concise and lacks detailed narrative.,21,dbpedia,1
+prompting,The selected string highlights participation in two World Championships.,22,dbpedia,1
+prompting,The selected string mentions a specific street address.,23,dbpedia,1
+prompting,The selected string uses a more celebratory and triumphant tone.,24,dbpedia,1
+prompting,The selected string uses formal legal terminology.,25,dbpedia,1
+prompting,The selected string provides information on marriage and offspring.,26,dbpedia,1
+prompting,The selected string focuses on a sports career.,27,dbpedia,1
+prompting,The selected string highlights hosting VIPs and celebrities.,28,dbpedia,1
+prompting,The selected string focuses on a sports figure.,29,dbpedia,1
+prompting,The selected string provides a detailed family lineage.,30,dbpedia,1
+prompting,The selected string details familial connections and inheritance.,31,dbpedia,1
+prompting,The selected string includes historical context and architectural details.,32,dbpedia,1
+prompting,The selected string mentions a specific founder by name.,33,dbpedia,1
+prompting,The selected string contains a narrative of personal and professional life.,34,dbpedia,1
+prompting,The selected string lacks detailed historical or contextual background.,35,dbpedia,1
+prompting,The selected string specifies a precise birth and death date.,36,dbpedia,1
+prompting,The selected string mentions specific sports events and locations.,37,dbpedia,1
+prompting,The selected string lacks detailed historical context.,38,dbpedia,1
+prompting,The selected string focuses on historical nobility and titles.,39,dbpedia,1
+prompting,The selected string uses a precise historical timeframe (1708-1710).,40,dbpedia,1
+prompting,The selected string includes specific legal acts: NEPA and CAA.,41,dbpedia,1
+prompting,"The selected string uses formal, straightforward language.",42,dbpedia,1
+prompting,The selected string specifies a career-ending team.,43,dbpedia,1
+prompting,The selected string includes specific Olympic participation details.,44,dbpedia,1
+prompting,The selected string involves a unanimous Supreme Court decision.,45,dbpedia,1
+prompting,The selected string highlights a historical sporting event.,46,dbpedia,1
+prompting,The selected string is significantly shorter in length.,47,dbpedia,1
+prompting,"The selected string uses a straightforward, factual tone.",48,dbpedia,1
+prompting,The selected string uses legal terminology and references court decisions.,49,dbpedia,1
+featurization,The selected string focuses on a sports career in speedway.,0,dbpedia,1
+featurization,The selected string focuses on a Supreme Court case.,1,dbpedia,1
+featurization,The selected string focuses on political career and baronetcy succession.,2,dbpedia,1
+featurization,The selected string focuses on a single individual's biography.,3,dbpedia,1
+featurization,The selected string focuses on a sports career.,4,dbpedia,1
+featurization,The selected string provides detailed commercial and geographic information.,5,dbpedia,1
+featurization,The selected string provides detailed location and ownership information.,6,dbpedia,1
+featurization,The selected string includes specific partner names in competitions.,7,dbpedia,1
+featurization,The selected string focuses on a single individual's sports career.,8,dbpedia,1
+featurization,The selected string mentions both beach and indoor volleyball.,9,dbpedia,1
+featurization,The selected string provides detailed geographic origins and affiliations.,10,dbpedia,1
+featurization,The selected string focuses on a commercial establishment.,11,dbpedia,1
+featurization,The selected string specifies exact dates of birth and death.,12,dbpedia,1
+featurization,The selected string focuses on a single event participation.,13,dbpedia,1
+featurization,The selected string focuses on team participation.,14,dbpedia,1
+featurization,The selected string provides detailed results of sports competitions.,15,dbpedia,1
+featurization,The selected string includes a specific partner's name.,16,dbpedia,1
+featurization,The selected string mentions a team mate by name.,17,dbpedia,1
+featurization,The selected string provides detailed family information.,18,dbpedia,1
+featurization,The selected string focuses on educational and cultural institutions.,19,dbpedia,1
+featurization,The selected string focuses on a single baronetcy title.,20,dbpedia,1
+featurization,The selected string includes specific religious affiliations and rites.,21,dbpedia,1
+featurization,The selected string focuses on a single location.,22,dbpedia,1
+featurization,The selected string includes a specific opening date.,23,dbpedia,1
+featurization,The selected string includes detailed genealogical information.,24,dbpedia,1
+featurization,The selected string highlights a female athlete's participation.,25,dbpedia,1
+featurization,The selected string focuses on a female athlete.,26,dbpedia,1
+featurization,The selected string mentions a specific award title received.,27,dbpedia,1
+featurization,The selected string mentions a sports partnership.,28,dbpedia,1
+featurization,The selected string mentions a specific sports event participation.,29,dbpedia,1
+featurization,The selected string mentions specific geographic locations in England.,30,dbpedia,1
+featurization,The selected string focuses on a single individual.,31,dbpedia,1
+featurization,The selected string focuses on a single individual's profession.,32,dbpedia,1
+featurization,The selected string focuses on a sports figure.,33,dbpedia,1
+featurization,The selected string mentions 17th-century historical figures.,34,dbpedia,1
+featurization,The selected string mentions knighthood and baronetcy creation.,35,dbpedia,1
+featurization,The selected string mentions educational institutions attended.,36,dbpedia,1
+featurization,The selected string focuses on a hereditary title and lineage.,37,dbpedia,1
+featurization,The selected string includes specific dates for political terms.,38,dbpedia,1
+featurization,The selected string includes specific parliamentary constituencies.,39,dbpedia,1
+featurization,The selected string includes a historical name change detail.,40,dbpedia,1
+featurization,The selected string involves the United States Supreme Court.,41,dbpedia,1
+featurization,The selected string discusses a Supreme Court case.,42,dbpedia,1
+featurization,The selected string focuses on legal procedural details.,43,dbpedia,1
+featurization,The selected string is concise and less detailed.,44,dbpedia,1
+featurization,The selected string covers a broader time span.,45,dbpedia,1
+featurization,The selected string references historical baronetcy succession.,46,dbpedia,1
+featurization,The selected string includes a specific date of title succession.,47,dbpedia,1
+featurization,The selected string mentions a specific team leadership role.,48,dbpedia,1
+featurization,The selected string specifies a construction year.,49,dbpedia,1
+baseline,indicate horse racing events and locations.,0,dbpedia,2
+baseline,mention American football players and teams.,1,dbpedia,2
+baseline,reference pornographic actors and the film industry.,2,dbpedia,2
+baseline,discuss rivers and geographical features.,3,dbpedia,2
+baseline,highlight rugby league teams and competitions.,4,dbpedia,2
+baseline,describe voice actors from Japan.,5,dbpedia,2
+baseline,talk about professional basketball teams and leagues.,6,dbpedia,2
+baseline,"focus on dams, reservoirs, and hydroelectric power.",7,dbpedia,2
+baseline,mention American National Hockey League affiliates.,8,dbpedia,2
+baseline,relate to specific cycling races and tours.,9,dbpedia,2
+baseline,indicate historical horse races and their winners.,10,dbpedia,2
+baseline,describe professional affiliations and coaching roles in NFL.,11,dbpedia,2
+baseline,feature soccer or rugby clubs and locations.,12,dbpedia,2
+baseline,emphasize thoroughbreds and flat racing distance.,13,dbpedia,2
+baseline,refer to tributaries and detailed river routes.,14,dbpedia,2
+baseline,mention Australian rules football clubs and locations.,15,dbpedia,2
+baseline,highlight greyhound racing tracks and locations.,16,dbpedia,2
+baseline,talk about profession and national origin of actresses.,17,dbpedia,2
+baseline,feature ice hockey clubs and league participation.,18,dbpedia,2
+baseline,provide specific locale details like racecourse or racetrack.,19,dbpedia,2
+baseline,introduce women's cycling teams and geographical base.,20,dbpedia,2
+baseline,detail infamous plays or moments in the NFL.,21,dbpedia,2
+baseline,refer to hydroelectric projects and water diversion.,22,dbpedia,2
+baseline,describe specific distances for various horse races.,23,dbpedia,2
+baseline,mention NCAA College Football affiliations and records.,24,dbpedia,2
+baseline,provide historical NFL context or background information.,25,dbpedia,2
+baseline,refer to annual or recurring horse races.,26,dbpedia,2
+baseline,mention specific date-based events or historical articles.,27,dbpedia,2
+baseline,highlight former football players' post-retirement activities.,28,dbpedia,2
+baseline,emphasize river ecology and geographical region.,29,dbpedia,2
+baseline,describe various athletic tournaments or friendly matches.,30,dbpedia,2
+baseline,indicate specific river origins or termination locations.,31,dbpedia,2
+baseline,refer to sports teams' founding dates and base locations.,32,dbpedia,2
+baseline,focus on horse racing history in specific countries.,33,dbpedia,2
+baseline,describe individual achievements or awards in sporting careers.,34,dbpedia,2
+baseline,refer to gymnasiums or fitness-related establishments.,35,dbpedia,2
+baseline,emphasize geographical boundaries or neighboring countries.,36,dbpedia,2
+baseline,highlight top-level team management or leadership details.,37,dbpedia,2
+baseline,mention voice actors' affiliated production companies.,38,dbpedia,2
+baseline,include historical tournaments or challenges in rugby.,39,dbpedia,2
+baseline,emphasize specific sporting event rules or competition format.,40,dbpedia,2
+baseline,refer to annual horse racing events.,41,dbpedia,2
+baseline,describe professional careers in rugby union.,42,dbpedia,2
+baseline,refer to river tributaries and their ecological significance.,43,dbpedia,2
+baseline,emphasize specific river forms and geographical details.,44,dbpedia,2
+baseline,"mention specific movies, roles, and filmography.",45,dbpedia,2
+baseline,highlight notable achievements in voice acting.,46,dbpedia,2
+baseline,refer to river confluences and water systems.,47,dbpedia,2
+baseline,include voice actor affiliations and roles.,48,dbpedia,2
+baseline,include voice actor affiliations and roles.,49,dbpedia,2
+prompting,The selected string lacks specific historical or geographical details.,0,dbpedia,2
+prompting,The selected string is concise and to the point.,1,dbpedia,2
+prompting,The selected string includes specific tournament participation details.,2,dbpedia,2
+prompting,The selected string focuses on a single sports team entity.,3,dbpedia,2
+prompting,The selected string uses Japanese characters for names and roles.,4,dbpedia,2
+prompting,The selected string focuses on an individual's career.,5,dbpedia,2
+prompting,The selected string focuses on a single subject.,6,dbpedia,2
+prompting,The selected string focuses on a river's course and tributaries.,7,dbpedia,2
+prompting,The selected string mentions multiple rounds in its event.,8,dbpedia,2
+prompting,The selected string focuses on a river's course and tributary.,9,dbpedia,2
+prompting,The selected string mentions a historical sports league rivalry.,10,dbpedia,2
+prompting,The selected string focuses on a specific annual sporting event.,11,dbpedia,2
+prompting,The selected string specifies a precise annual event timing.,12,dbpedia,2
+prompting,The selected string includes a governing body's name and role.,13,dbpedia,2
+prompting,The selected string includes a disclaimer for name confusion.,14,dbpedia,2
+prompting,The selected string includes Japanese characters and romanization.,15,dbpedia,2
+prompting,The selected string focuses on natural rather than human activities.,16,dbpedia,2
+prompting,The selected string mentions a specific district in Rwanda.,17,dbpedia,2
+prompting,The selected string details a purse amount for the race.,18,dbpedia,2
+prompting,The selected string uses a more narrative tone.,19,dbpedia,2
+prompting,The selected string contains explicit financial and career details.,20,dbpedia,2
+prompting,The selected string mentions water reservoirs and their purpose.,21,dbpedia,2
+prompting,The selected string focuses on a single individual's achievements.,22,dbpedia,2
+prompting,The selected string includes specific influential individuals' names.,23,dbpedia,2
+prompting,The selected string highlights college sports background: Kansas State.,24,dbpedia,2
+prompting,The selected string lacks personal or biographical information.,25,dbpedia,2
+prompting,"The selected string is set in Northern Ireland, emphasizing locality.",26,dbpedia,2
+prompting,The selected string mentions a specific year transition.,27,dbpedia,2
+prompting,The selected string uses phonetic pronunciation for a name.,28,dbpedia,2
+prompting,The selected string includes specific birth and career dates.,29,dbpedia,2
+prompting,The selected string has a narrative of team resurrection.,30,dbpedia,2
+prompting,The selected string highlights a successful Mini rugby section.,31,dbpedia,2
+prompting,The selected string includes specific award names and years.,32,dbpedia,2
+prompting,The selected string mentions a professional affiliation.,33,dbpedia,2
+prompting,The selected string uses Dutch terms like 'Korfbalvereniging'.,34,dbpedia,2
+prompting,The selected string is concise and straightforward.,35,dbpedia,2
+prompting,The selected string provides a precise race distance in meters.,36,dbpedia,2
+prompting,The selected string includes specific career achievements and accolades.,37,dbpedia,2
+prompting,The selected string is concise and to the point.,38,dbpedia,2
+prompting,The selected string focuses on a global sports event.,39,dbpedia,2
+prompting,The selected string covers a non-continuous timeline of events.,40,dbpedia,2
+prompting,"The selected string describes a remote, sparsely populated area.",41,dbpedia,2
+prompting,The selected string uses a chronological narrative structure.,42,dbpedia,2
+prompting,The selected string mentions a specific television network.,43,dbpedia,2
+prompting,The selected string includes a personal health-related career-ending event.,44,dbpedia,2
+prompting,The selected string includes historical references to Lewis and Clark.,45,dbpedia,2
+prompting,The selected string includes explicit adult industry references.,46,dbpedia,2
+prompting,The selected string focuses on an individual's sports career.,47,dbpedia,2
+prompting,The selected string specifies a consistent annual occurrence since 1885.,48,dbpedia,2
+prompting,The selected string includes specific measurements and geographical data.,49,dbpedia,2
+featurization,The selected string mentions involvement in the adult film industry.,0,dbpedia,2
+featurization,The selected string includes Japanese characters and romanization.,1,dbpedia,2
+featurization,The selected string includes specific league information.,2,dbpedia,2
+featurization,The selected string focuses on an individual's biography.,3,dbpedia,2
+featurization,The selected string focuses on a sports club.,4,dbpedia,2
+featurization,The selected string targets an audience interested in horse racing.,5,dbpedia,2
+featurization,"The selected string describes a geographical feature, a river.",6,dbpedia,2
+featurization,The selected string focuses on a voice acting career.,7,dbpedia,2
+featurization,The selected string focuses on American football exclusively.,8,dbpedia,2
+featurization,The selected string includes a list of specific localities.,9,dbpedia,2
+featurization,The selected string focuses on a defunct sports team.,10,dbpedia,2
+featurization,The selected string includes international competition details.,11,dbpedia,2
+featurization,The selected string includes a substitute event description.,12,dbpedia,2
+featurization,The selected string mentions multiple team categories.,13,dbpedia,2
+featurization,The selected string includes notable individuals associated with the club.,14,dbpedia,2
+featurization,The selected string includes an organizational affiliation.,15,dbpedia,2
+featurization,The selected string includes multiple aliases of the individual.,16,dbpedia,2
+featurization,The selected string focuses on adult entertainment industry.,17,dbpedia,2
+featurization,The selected string describes a natural water body.,18,dbpedia,2
+featurization,The selected string is set in Australia.,19,dbpedia,2
+featurization,"The selected string focuses on a single, specific event.",20,dbpedia,2
+featurization,The selected string mentions awards specific to adult film industry.,21,dbpedia,2
+featurization,The selected string includes multiple team affiliations.,22,dbpedia,2
+featurization,The selected string includes multiple languages and translations.,23,dbpedia,2
+featurization,The selected string mentions a former stage name of the subject.,24,dbpedia,2
+featurization,The selected string details historical infrastructure development.,25,dbpedia,2
+featurization,"The selected string is set in England, not the USA.",26,dbpedia,2
+featurization,The selected string includes a precise time frame of existence.,27,dbpedia,2
+featurization,The selected string focuses on an individual's career in entertainment.,28,dbpedia,2
+featurization,The selected string includes specific race conditions and restrictions.,29,dbpedia,2
+featurization,The selected string includes a specific birth date.,30,dbpedia,2
+featurization,The selected string includes specific dates for events.,31,dbpedia,2
+featurization,The selected string includes specific years and events.,32,dbpedia,2
+featurization,The selected string emphasizes cultural and ethnic background.,33,dbpedia,2
+featurization,The selected string describes a natural geographic feature.,34,dbpedia,2
+featurization,The selected string focuses on a horse racing event.,35,dbpedia,2
+featurization,The selected string specifies an exact event date.,36,dbpedia,2
+featurization,The selected string focuses on ice hockey sports team history.,37,dbpedia,2
+featurization,The selected string includes a specific ranking position.,38,dbpedia,2
+featurization,The selected string lists multiple teams the player has joined.,39,dbpedia,2
+featurization,The selected string mentions an affiliation with an agency.,40,dbpedia,2
+featurization,The selected string is significantly longer and more detailed.,41,dbpedia,2
+featurization,The selected string specifies two NFL teams played for.,42,dbpedia,2
+featurization,The selected string lists multiple professional football teams.,43,dbpedia,2
+featurization,The selected string mentions a specific founding year.,44,dbpedia,2
+featurization,The selected string includes specific geographical coordinates and measurements.,45,dbpedia,2
+featurization,"The selected string focuses on a geographical feature, a river.",46,dbpedia,2
+featurization,The selected string focuses on a river's course and tributary.,47,dbpedia,2
+featurization,The selected string focuses on a geographical feature.,48,dbpedia,2
+featurization,The selected string describes a change in venue location.,49,dbpedia,2
+baseline,relate to navigation and rail travel info.,0,nyt,0
+baseline,describe botanical gardens and plant events.,1,nyt,0
+baseline,discuss ancient architecture and monuments.,2,nyt,0
+baseline,involve language and cultural immersion programs.,3,nyt,0
+baseline,cover unique lodging experiences.,4,nyt,0
+baseline,pertain to school curriculums and unique educational programs.,5,nyt,0
+baseline,focus on historical wars and famous battles.,6,nyt,0
+baseline,involve luxury seaside resorts and vacations.,7,nyt,0
+baseline,relate to theatre and performing arts details.,8,nyt,0
+baseline,are about international expositions and expos.,9,nyt,0
+baseline,describe tours related to wine and vineyards.,10,nyt,0
+baseline,discuss automotive or aviation historical artifacts.,11,nyt,0
+baseline,are about classic films and actors.,12,nyt,0
+baseline,relate to retirement homes or foreign investment.,13,nyt,0
+baseline,detail sports events or athletic competitions.,14,nyt,0
+baseline,discuss health-related technology and innovations.,15,nyt,0
+baseline,relate to cultural or culinary festivals.,16,nyt,0
+baseline,describe mystery and detective genres.,17,nyt,0
+baseline,pertain to maritime activities and watercraft.,18,nyt,0
+baseline,describe aviation accidents or investigations.,19,nyt,0
+baseline,describe unique sports or recreational activities.,20,nyt,0
+baseline,relate to financial markets or economic data.,21,nyt,0
+baseline,pertain to human rights and legal proceedings.,22,nyt,0
+baseline,describe innovative furniture or home decor.,23,nyt,0
+baseline,are about environmental preservation or fauna.,24,nyt,0
+baseline,describe architectural landmarks or construction projects.,25,nyt,0
+baseline,focus on historical or contemporary military conflicts.,26,nyt,0
+baseline,involve scientific research and breakthroughs.,27,nyt,0
+baseline,pertain to psychological studies and mental health.,28,nyt,0
+baseline,cover urban development or municipal challenges.,29,nyt,0
+baseline,describe educational methods or learning techniques.,30,nyt,0
+baseline,relate to controversies in public policy.,31,nyt,0
+baseline,are related to product recalls or consumer safety.,32,nyt,0
+baseline,detail agriculture or farming methods.,33,nyt,0
+baseline,describe corporate or business history.,34,nyt,0
+baseline,discuss crime stories or criminal investigations.,35,nyt,0
+baseline,relate to sports teams or player transactions.,36,nyt,0
+baseline,describe fashion trends or designer profiles.,37,nyt,0
+baseline,discuss trade and commerce.,38,nyt,0
+baseline,describe musical tours or performances.,39,nyt,0
+baseline,discuss historical movements or political periods.,40,nyt,0
+baseline,describe personal finance or estate planning.,41,nyt,0
+baseline,involve job market trends or employment data.,42,nyt,0
+baseline,relate to geology or earth science.,43,nyt,0
+baseline,cover episods of natural disasters.,44,nyt,0
+baseline,discuss wildlife or nature conservation.,45,nyt,0
+baseline,involve travel planning or itineraries.,46,nyt,0
+baseline,describe traditional and digital media platforms.,47,nyt,0
+baseline,relate to transportation technologies or trends.,48,nyt,0
+baseline,discuss healthcare or medical advancements.,49,nyt,0
+prompting,The selected string focuses on a familial relationship.,0,nyt,0
+prompting,The selected string highlights a specific geopolitical context: China.,1,nyt,0
+prompting,"The selected string is concise, with a single-sentence structure.",2,nyt,0
+prompting,"The selected string uses formal, legalistic language.",3,nyt,0
+prompting,The selected string targets an audience interested in culinary arts.,4,nyt,0
+prompting,The selected string focuses on car interior personalization.,5,nyt,0
+prompting,The selected string critiques advice given by an advice column.,6,nyt,0
+prompting,The selected string includes direct quotes from cultural figures.,7,nyt,0
+prompting,The selected string uses vivid imagery and descriptive language.,8,nyt,0
+prompting,The selected string highlights a national achievement in sports.,9,nyt,0
+prompting,The selected string provides specific recommendations for travel experiences.,10,nyt,0
+prompting,The selected string focuses on Middle East conflict dynamics.,11,nyt,0
+prompting,The selected string is concise and to the point.,12,nyt,0
+prompting,The selected string reflects on media's cultural impact.,13,nyt,0
+prompting,The selected string focuses on architectural and design elements.,14,nyt,0
+prompting,The selected string incorporates humor in discussing progress.,15,nyt,0
+prompting,The selected string is written in an informative and academic tone.,16,nyt,0
+prompting,The selected string focuses on a single individual's life story.,17,nyt,0
+prompting,The selected string includes a direct quote from an individual.,18,nyt,0
+prompting,The selected string includes historical context of post-Communist Europe.,19,nyt,0
+prompting,The selected string incorporates a playful tone with educational themes.,20,nyt,0
+prompting,The selected string is set in Argentina during an economic crisis.,21,nyt,0
+prompting,The selected string covers multiple unrelated topics in one article.,22,nyt,0
+prompting,"The selected string uses a straightforward, informative tone throughout.",23,nyt,0
+prompting,The selected string maintains a helpful and informative tone.,24,nyt,0
+prompting,The selected string uses a hopeful and optimistic tone throughout.,25,nyt,0
+prompting,The selected string is specific to a geographical location.,26,nyt,0
+prompting,The selected string uses a first-person perspective.,27,nyt,0
+prompting,The selected string emphasizes regional pride and identity.,28,nyt,0
+prompting,The selected string focuses on travel-related inquiries and responses.,29,nyt,0
+prompting,The selected string is concise and to the point.,30,nyt,0
+prompting,"The selected string uses a straightforward, factual tone.",31,nyt,0
+prompting,The selected string focuses on television personalities and entertainment.,32,nyt,0
+prompting,The selected string includes specific product prices and contact information.,33,nyt,0
+prompting,"The selected string uses straightforward, formal language.",34,nyt,0
+prompting,The selected string references historical figures like Ben Franklin.,35,nyt,0
+prompting,The selected string employs a casual and conversational tone.,36,nyt,0
+prompting,The selected string provides detailed cost comparisons for bike options.,37,nyt,0
+prompting,The selected string uses a nostalgic and whimsical tone.,38,nyt,0
+prompting,The selected string focuses on local community and education.,39,nyt,0
+prompting,"The selected string uses straightforward, formal language.",40,nyt,0
+prompting,The selected string includes direct quotes from key figures.,41,nyt,0
+prompting,The selected string is concise and to the point.,42,nyt,0
+prompting,The selected string has a speculative and imaginative tone.,43,nyt,0
+prompting,The selected string focuses on financial advice and currency exchange.,44,nyt,0
+prompting,"The selected string uses vivid, descriptive language for scenery.",45,nyt,0
+prompting,The selected string uses a conversational and informal tone.,46,nyt,0
+prompting,The selected string uses a Q&A format for information.,47,nyt,0
+prompting,The selected string is concise and brief.,48,nyt,0
+prompting,The selected string involves international collaboration and decision-making.,49,nyt,0
+featurization,The selected string focuses on journalistic integrity and corrections.,0,nyt,0
+featurization,The selected string provides specific titles and authorship details.,1,nyt,0
+featurization,The selected string is a letter to the editor format.,2,nyt,0
+featurization,The selected string provides specific contact information and websites.,3,nyt,0
+featurization,The selected string focuses on a legal correction.,4,nyt,0
+featurization,The selected string focuses on a single correction.,5,nyt,0
+featurization,The selected string references a specific column and author.,6,nyt,0
+featurization,The selected string covers diverse topics in a single article.,7,nyt,0
+featurization,The selected string features a prominent New York City setting.,8,nyt,0
+featurization,The selected string includes specific travel and event details.,9,nyt,0
+featurization,The selected string addresses a specific correction.,10,nyt,0
+featurization,The selected string focuses on a financial correction.,11,nyt,0
+featurization,The selected string incorporates visual elements through photography references.,12,nyt,0
+featurization,The selected string focuses on retail and interior design.,13,nyt,0
+featurization,The selected string is significantly longer and more detailed.,14,nyt,0
+featurization,The selected string is centered around a sports figure and event.,15,nyt,0
+featurization,The selected string addresses a fashion-related topic.,16,nyt,0
+featurization,The selected string covers multiple international locations and events.,17,nyt,0
+featurization,The selected string addresses a specific error in a publication.,18,nyt,0
+featurization,The selected string is set in Argentina with a global sports context.,19,nyt,0
+featurization,The selected string focuses on travel-related questions and answers.,20,nyt,0
+featurization,The selected string provides detailed travel and service information.,21,nyt,0
+featurization,The selected string corrects a factual error.,22,nyt,0
+featurization,The selected string lacks a question-and-answer format.,23,nyt,0
+featurization,The selected string addresses a specific error in reporting.,24,nyt,0
+featurization,The selected string uses humor to discuss serious topics.,25,nyt,0
+featurization,The selected string focuses on consumer products and their details.,26,nyt,0
+featurization,The selected string focuses on a specific design innovation.,27,nyt,0
+featurization,The selected string focuses on a historical cultural tradition.,28,nyt,0
+featurization,The selected string includes specific pricing and product details.,29,nyt,0
+featurization,The selected string focuses on a familial relationship.,30,nyt,0
+featurization,The selected string includes specific contact details and addresses.,31,nyt,0
+featurization,The selected string addresses a specific error in a previous article.,32,nyt,0
+featurization,The selected string includes direct responses to reader questions.,33,nyt,0
+featurization,The selected string focuses on a single public figure.,34,nyt,0
+featurization,The selected string focuses on a single individual's personal issues.,35,nyt,0
+featurization,The selected string addresses a specific audience: newspaper readers.,36,nyt,0
+featurization,The selected string employs humor and cultural references.,37,nyt,0
+featurization,The selected string includes specific historical context.,38,nyt,0
+featurization,The selected string mentions a specific academic affiliation.,39,nyt,0
+featurization,"The selected string focuses on a single, localized setting in New York.",40,nyt,0
+featurization,The selected string focuses on a scientific and health topic.,41,nyt,0
+featurization,The selected string focuses on art and cultural experiences.,42,nyt,0
+featurization,The selected string features a political context and setting.,43,nyt,0
+featurization,The selected string addresses multiple unrelated topics in a single article.,44,nyt,0
+featurization,The selected string highlights a designer's personal achievements and projects.,45,nyt,0
+featurization,The selected string includes specific pricing and contact details.,46,nyt,0
+featurization,The selected string explores themes of childhood and adult relationships.,47,nyt,0
+featurization,The selected string addresses a specific legal and financial issue.,48,nyt,0
+featurization,The selected string references a historical media event.,49,nyt,0
+baseline,mention 'President' and political leaders.,0,nyt,1
+baseline,involve sports events and specific athletes.,1,nyt,1
+baseline,refer to famous novels or literary analysis.,2,nyt,1
+baseline,describe specific locations like New York or London.,3,nyt,1
+baseline,reference historical figures or politicians.,4,nyt,1
+baseline,discuss television shows or broadcast media.,5,nyt,1
+baseline,involve legal matters or court cases.,6,nyt,1
+baseline,highlight art or cultural exhibitions.,7,nyt,1
+baseline,mention technological or scientific developments.,8,nyt,1
+baseline,discuss international relations or foreign policy.,9,nyt,1
+baseline,describe natural disasters or emergency situations.,10,nyt,1
+baseline,detail economic factors or financial markets.,11,nyt,1
+baseline,involve military actions or national defense.,12,nyt,1
+baseline,"discuss music, dance, or theatrical performances.",13,nyt,1
+baseline,involve architectural or urban development.,14,nyt,1
+baseline,highlight criminal cases or police activities.,15,nyt,1
+baseline,include celebrity news or entertainment industry.,16,nyt,1
+baseline,provide culinary insights or food reviews.,17,nyt,1
+baseline,discuss educational institutions or academic updates.,18,nyt,1
+baseline,revolve around fashion and lifestyle.,19,nyt,1
+baseline,mention environmental concerns or conservation efforts.,20,nyt,1
+baseline,describe healthcare issues or wellness topics.,21,nyt,1
+baseline,involve transportation or infrastructure developments.,22,nyt,1
+baseline,discuss social services or humanitarian efforts.,23,nyt,1
+baseline,highlight historical events or anniversaries.,24,nyt,1
+baseline,involve science fiction or fantasy genres.,25,nyt,1
+baseline,discuss religious or spiritual topics.,26,nyt,1
+baseline,describe food and beverage themes.,27,nyt,1
+baseline,present book or movie reviews.,28,nyt,1
+baseline,involve workforce and employment topics.,29,nyt,1
+baseline,cover family dynamics or personal relationships.,30,nyt,1
+baseline,discuss media and communication platforms.,31,nyt,1
+baseline,feature design and art aesthetics discussion.,32,nyt,1
+baseline,involve animal and wildlife conservation.,33,nyt,1
+baseline,highlight crime and justice issues.,34,nyt,1
+baseline,reference athletic achievements or competitions.,35,nyt,1
+baseline,discuss education systems or policy reforms.,36,nyt,1
+baseline,outline financial trends or market conditions.,37,nyt,1
+baseline,describe environmental disasters or climate changes.,38,nyt,1
+baseline,feature aspects of cultural heritage or traditions.,39,nyt,1
+baseline,revolve around public health initiatives or concerns.,40,nyt,1
+baseline,disclose war and peace negotiations.,41,nyt,1
+baseline,include fashion trends or industry highlights.,42,nyt,1
+baseline,involve space exploration or astronomical events.,43,nyt,1
+baseline,detail public announcements or official statements.,44,nyt,1
+baseline,highlight local community developments or concerns.,45,nyt,1
+baseline,involve digital technology or innovation.,46,nyt,1
+baseline,describe animal behavior or studies.,47,nyt,1
+baseline,depict court rulings or legal processes.,48,nyt,1
+baseline,involve business and corporate dynamics.,49,nyt,1
+prompting,The selected string uses a direct and straightforward writing style.,0,nyt,1
+prompting,The selected string discusses diplomatic strategies and negotiations.,1,nyt,1
+prompting,"The selected string uses a straightforward, factual reporting style.",2,nyt,1
+prompting,The selected string uses a hopeful and positive tone throughout.,3,nyt,1
+prompting,The selected string employs vivid imagery and descriptive language.,4,nyt,1
+prompting,The selected string uses a chronological structure for program descriptions.,5,nyt,1
+prompting,The selected string is centered on a specific political event.,6,nyt,1
+prompting,"The selected string highlights trendy, contemporary cultural references.",7,nyt,1
+prompting,The selected string is concise and straightforward in structure.,8,nyt,1
+prompting,The selected string highlights cultural influences on construction.,9,nyt,1
+prompting,The selected string discusses geopolitical changes affecting stamp issuance.,10,nyt,1
+prompting,The selected string focuses on a historical sports figure.,11,nyt,1
+prompting,The selected string includes scientific studies and research findings.,12,nyt,1
+prompting,The selected string highlights geopolitical tensions and diplomatic incidents.,13,nyt,1
+prompting,The selected string focuses on a medical documentary.,14,nyt,1
+prompting,The selected string includes personal anecdotes from the narrator.,15,nyt,1
+prompting,The selected string balances modernity with traditional European influences.,16,nyt,1
+prompting,The selected string focuses on a design and furniture fair.,17,nyt,1
+prompting,The selected string uses a formal and diplomatic tone.,18,nyt,1
+prompting,The selected string includes specific product and price details.,19,nyt,1
+prompting,The selected string provides specific broadcast details and scheduling.,20,nyt,1
+prompting,"The selected string incorporates vivid, sensory-rich descriptions of settings.",21,nyt,1
+prompting,The selected string uses a formal tone.,22,nyt,1
+prompting,The selected string includes references to popular TV shows.,23,nyt,1
+prompting,The selected string omits specific names and detailed descriptions.,24,nyt,1
+prompting,The selected string explores themes of legacy and artistic influence.,25,nyt,1
+prompting,The selected string targets an audience dealing with estate planning.,26,nyt,1
+prompting,The selected string uses technical and scientific vocabulary extensively.,27,nyt,1
+prompting,The selected string is set in a fictional English village.,28,nyt,1
+prompting,The selected string uses a formal and factual writing style.,29,nyt,1
+prompting,The selected string has a somber and reflective tone.,30,nyt,1
+prompting,The selected string emphasizes emotional and sentimental value of items.,31,nyt,1
+prompting,The selected string uses a critical and sarcastic tone.,32,nyt,1
+prompting,The selected string is a review of a television series.,33,nyt,1
+prompting,The selected string has a competitive and strategic tone.,34,nyt,1
+prompting,The selected string discusses international diplomatic relations.,35,nyt,1
+prompting,The selected string highlights a peaceful transition of power.,36,nyt,1
+prompting,The selected string is concise and focused on a single event.,37,nyt,1
+prompting,The selected string uses a serious and analytical tone.,38,nyt,1
+prompting,The selected string focuses on a job interview scenario.,39,nyt,1
+prompting,The selected string focuses on a specific sports event.,40,nyt,1
+prompting,The selected string focuses on personalizing living spaces.,41,nyt,1
+prompting,The selected string incorporates personal anecdotes and life lessons.,42,nyt,1
+prompting,The selected string uses a personal anecdote to engage readers.,43,nyt,1
+prompting,The selected string is concise and to the point.,44,nyt,1
+prompting,The selected string includes a detailed description of a unique project.,45,nyt,1
+prompting,The selected string uses vivid imagery to describe scenes.,46,nyt,1
+prompting,The selected string is significantly shorter in length.,47,nyt,1
+prompting,The selected string includes direct quotes from political leaders.,48,nyt,1
+prompting,The selected string uses historical context to explain current events.,49,nyt,1
+featurization,The selected string is centered on a specific political event.,0,nyt,1
+featurization,The selected string includes detailed cast and crew information.,1,nyt,1
+featurization,The selected string highlights New York-centric events and personalities.,2,nyt,1
+featurization,The selected string includes a correction notice.,3,nyt,1
+featurization,The selected string involves multiple countries and international organizations.,4,nyt,1
+featurization,The selected string includes historical and modern references.,5,nyt,1
+featurization,The selected string uses a single photo description.,6,nyt,1
+featurization,The selected string includes a specific page reference.,7,nyt,1
+featurization,The selected string includes specific financial and legal details.,8,nyt,1
+featurization,"The selected string involves a high-profile, widely recognized public figure.",9,nyt,1
+featurization,The selected string discusses historical and contemporary design trends.,10,nyt,1
+featurization,The selected string includes historical context and personal anecdotes.,11,nyt,1
+featurization,The selected string includes specific broadcast details and times.,12,nyt,1
+featurization,The selected string focuses on a geopolitical conflict.,13,nyt,1
+featurization,The selected string focuses on a specific international incident.,14,nyt,1
+featurization,The selected string includes specific player statistics and game details.,15,nyt,1
+featurization,The selected string is set in a specific European location.,16,nyt,1
+featurization,The selected string focuses on a sports management decision.,17,nyt,1
+featurization,The selected string focuses on a political leader's visit.,18,nyt,1
+featurization,The selected string is structured as a media critique.,19,nyt,1
+featurization,The selected string includes references to PBS programming.,20,nyt,1
+featurization,The selected string focuses on international diplomacy and arms control.,21,nyt,1
+featurization,The selected string emphasizes law enforcement and legal consequences.,22,nyt,1
+featurization,The selected string focuses on a specific competitive event.,23,nyt,1
+featurization,The selected string includes personal anecdotes and observations.,24,nyt,1
+featurization,The selected string includes specific architectural and design details.,25,nyt,1
+featurization,The selected string includes specific product details and pricing.,26,nyt,1
+featurization,The selected string includes a detailed plot summary.,27,nyt,1
+featurization,The selected string emphasizes emotional impact on families and educators.,28,nyt,1
+featurization,The selected string focuses on a political and legal theme.,29,nyt,1
+featurization,The selected string includes direct quotes from participants.,30,nyt,1
+featurization,The selected string focuses on a legal proceeding.,31,nyt,1
+featurization,The selected string includes specific business examples and success stories.,32,nyt,1
+featurization,The selected string explores themes of mortality and legacy.,33,nyt,1
+featurization,The selected string emphasizes historical context and tradition of giving.,34,nyt,1
+featurization,The selected string includes direct quotes from the artist.,35,nyt,1
+featurization,The selected string is set in a university environment.,36,nyt,1
+featurization,The selected string focuses on a single individual's personal experiences.,37,nyt,1
+featurization,The selected string uses a chronological play-by-play structure.,38,nyt,1
+featurization,The selected string focuses on a specific tragic event.,39,nyt,1
+featurization,The selected string discusses a specific disease's societal impact.,40,nyt,1
+featurization,The selected string focuses on a specific residential project.,41,nyt,1
+featurization,The selected string includes a historical perspective on candidates.,42,nyt,1
+featurization,The selected string uses direct quotes from athletes.,43,nyt,1
+featurization,"The selected string includes multiple short, unrelated news snippets.",44,nyt,1
+featurization,The selected string is centered around a contemporary American political context.,45,nyt,1
+featurization,The selected string includes direct quotes from political figures.,46,nyt,1
+featurization,The selected string emphasizes personal stories of homeowners and architects.,47,nyt,1
+featurization,The selected string includes specific exhibition details and locations.,48,nyt,1
+featurization,The selected string includes detailed descriptions of interior design elements.,49,nyt,1
+baseline,indicate Alpine skiing coverage.,0,nyt,2
+baseline,reference Winter Olympics.,1,nyt,2
+baseline,discuss travel advisories.,2,nyt,2
+baseline,address political or legal events.,3,nyt,2
+baseline,mention health services or medical topics.,4,nyt,2
+baseline,focus on wildlife conservation.,5,nyt,2
+baseline,relate to historical sites or preservation.,6,nyt,2
+baseline,involve U.S. legal proceedings.,7,nyt,2
+baseline,refer to environmental issues.,8,nyt,2
+baseline,contain sports event results.,9,nyt,2
+baseline,highlight cultural or art exhibitions.,10,nyt,2
+baseline,are about public transportation updates.,11,nyt,2
+baseline,cover science and technology topics.,12,nyt,2
+baseline,reference media or journalism activities.,13,nyt,2
+baseline,discuss auction or sales events.,14,nyt,2
+baseline,mention tourism in specific regions.,15,nyt,2
+baseline,report on crime and investigations.,16,nyt,2
+baseline,describe community or social services.,17,nyt,2
+baseline,focus on education or school news.,18,nyt,2
+baseline,provide insights into financial or economic topics.,19,nyt,2
+baseline,discuss wildlife or animal rights.,20,nyt,2
+baseline,indicate book or literature discussions.,21,nyt,2
+baseline,address diplomatic or international relations.,22,nyt,2
+baseline,cover maritime or marine travel.,23,nyt,2
+baseline,discuss building or architecture topics.,24,nyt,2
+baseline,relate to religious events or discussions.,25,nyt,2
+baseline,involve judicial updates or court rulings.,26,nyt,2
+baseline,pertain to higher education or academic settings.,27,nyt,2
+baseline,involve cultural or national traditions.,28,nyt,2
+baseline,mention notable public figures or celebrity news.,29,nyt,2
+baseline,reference communication technologies.,30,nyt,2
+baseline,report on housing or real estate.,31,nyt,2
+baseline,highlight career or job market insights.,32,nyt,2
+baseline,describe natural disasters or weather events.,33,nyt,2
+baseline,involve fashion or design topics.,34,nyt,2
+baseline,mention philanthropic or fund-raising events.,35,nyt,2
+baseline,relate to aviation updates.,36,nyt,2
+baseline,address youth or family-related news.,37,nyt,2
+baseline,feature culinary or food topics.,38,nyt,2
+baseline,explore scientific research or discoveries.,39,nyt,2
+baseline,involve transportation infrastructure.,40,nyt,2
+baseline,concern military or defense issues.,41,nyt,2
+baseline,cover archaeological findings.,42,nyt,2
+baseline,discuss municipal or local government actions.,43,nyt,2
+baseline,reference geographical or topographical studies.,44,nyt,2
+baseline,involve music or entertainment events.,45,nyt,2
+baseline,concern labor or workplace issues.,46,nyt,2
+baseline,address beauty or wellness topics.,47,nyt,2
+baseline,discuss legal reforms or legislative procedures.,48,nyt,2
+baseline,describe technological advancements or innovations.,49,nyt,2
+prompting,The selected string includes cultural and historical context of China.,0,nyt,2
+prompting,The selected string includes specific forensic details like dental records.,1,nyt,2
+prompting,"The selected string uses a concise, factual reporting style.",2,nyt,2
+prompting,The selected string involves high-profile political figures.,3,nyt,2
+prompting,"The selected string is set in New Jersey, USA.",4,nyt,2
+prompting,The selected string includes technical details about ride mechanics.,5,nyt,2
+prompting,The selected string is set in an art exhibition context.,6,nyt,2
+prompting,The selected string is concise and straightforward in its presentation.,7,nyt,2
+prompting,The selected string uses a narrative style with vivid imagery.,8,nyt,2
+prompting,The selected string emphasizes educational and cultural experiences.,9,nyt,2
+prompting,The selected string lacks detailed character testimonies.,10,nyt,2
+prompting,The selected string focuses on gardening tasks and maintenance.,11,nyt,2
+prompting,The selected string uses Italian language for product naming.,12,nyt,2
+prompting,The selected string is concise and straightforward in length.,13,nyt,2
+prompting,The selected string focuses on a political election campaign.,14,nyt,2
+prompting,The selected string uses a specific nickname: 'Firearm Freeway'.,15,nyt,2
+prompting,The selected string provides contact information for further inquiries.,16,nyt,2
+prompting,The selected string focuses on products for disabled travelers.,17,nyt,2
+prompting,The selected string has a solemn and respectful tone.,18,nyt,2
+prompting,"The selected string uses straightforward, factual language.",19,nyt,2
+prompting,The selected string addresses recent events influencing legislative changes.,20,nyt,2
+prompting,The selected string has a promotional tone for a travel book.,21,nyt,2
+prompting,The selected string uses a more informal and conversational tone.,22,nyt,2
+prompting,The selected string includes direct quotes from health officials.,23,nyt,2
+prompting,"The selected string is set in a specific, iconic location.",24,nyt,2
+prompting,"The selected string uses straightforward, factual language.",25,nyt,2
+prompting,The selected string highlights late-game strategies and emotional resilience.,26,nyt,2
+prompting,The selected string is concise and straightforward in structure.,27,nyt,2
+prompting,The selected string includes specific legal references and terminology.,28,nyt,2
+prompting,The selected string is concise and to the point.,29,nyt,2
+prompting,The selected string includes expressions of gratitude towards a judge.,30,nyt,2
+prompting,The selected string emphasizes national pride and team spirit.,31,nyt,2
+prompting,The selected string includes direct quotes from local residents.,32,nyt,2
+prompting,The selected string includes detailed legal proceedings and rulings.,33,nyt,2
+prompting,"The selected string is set in Miami, Florida.",34,nyt,2
+prompting,The selected string highlights individual photographers' styles.,35,nyt,2
+prompting,The selected string lacks sports or cultural references.,36,nyt,2
+prompting,The selected string uses a conversational tone with direct quotes.,37,nyt,2
+prompting,The selected string includes a diverse range of artistic activities.,38,nyt,2
+prompting,The selected string focuses on scientific discoveries and advancements.,39,nyt,2
+prompting,The selected string discusses geopolitical implications and international relations.,40,nyt,2
+prompting,The selected string is concise and brief.,41,nyt,2
+prompting,The selected string uses legal terminology extensively.,42,nyt,2
+prompting,The selected string uses a formal and factual tone.,43,nyt,2
+prompting,The selected string uses a more critical and disappointed tone.,44,nyt,2
+prompting,"The selected string uses a factual, informative tone throughout.",45,nyt,2
+prompting,"The selected string involves a specific law, Megan's Law.",46,nyt,2
+prompting,The selected string focuses on a specific Olympic event.,47,nyt,2
+prompting,The selected string is concise and to the point.,48,nyt,2
+prompting,The selected string focuses on a single correction.,49,nyt,2
+featurization,The selected string addresses a specific error in reporting.,0,nyt,2
+featurization,The selected string provides specific contact information for each service.,1,nyt,2
+featurization,The selected string focuses on brief news summaries and updates.,2,nyt,2
+featurization,The selected string emphasizes regional political dynamics in New Jersey.,3,nyt,2
+featurization,The selected string includes specific legal and organizational details.,4,nyt,2
+featurization,The selected string provides practical travel advice.,5,nyt,2
+featurization,The selected string addresses a specific error in a publication.,6,nyt,2
+featurization,The selected string focuses on a single correction.,7,nyt,2
+featurization,The selected string addresses a specific error in a previous article.,8,nyt,2
+featurization,The selected string focuses on recreational activities and travel.,9,nyt,2
+featurization,"The selected string involves a high-profile international figure, Noriega.",10,nyt,2
+featurization,The selected string is set in a specific New York location.,11,nyt,2
+featurization,The selected string includes historical and cultural references.,12,nyt,2
+featurization,The selected string focuses on travel and transportation topics.,13,nyt,2
+featurization,The selected string includes a detailed personal background.,14,nyt,2
+featurization,The selected string highlights international sports events and teams.,15,nyt,2
+featurization,The selected string is set in a legal and political context.,16,nyt,2
+featurization,The selected string includes specific legal and prosecutorial details.,17,nyt,2
+featurization,The selected string focuses on a correction or clarification.,18,nyt,2
+featurization,The selected string focuses on local community events and activities.,19,nyt,2
+featurization,The selected string focuses on art and cultural exhibition.,20,nyt,2
+featurization,The selected string is set in New Jersey.,21,nyt,2
+featurization,"The selected string targets a broad, general audience.",22,nyt,2
+featurization,The selected string focuses on diplomatic and political themes.,23,nyt,2
+featurization,The selected string presents contrasting perspectives on a controversial figure.,24,nyt,2
+featurization,The selected string focuses on a sports event.,25,nyt,2
+featurization,The selected string targets travelers and airline customers.,26,nyt,2
+featurization,"The selected string targets a specific, niche audience.",27,nyt,2
+featurization,The selected string focuses on crime and law enforcement.,28,nyt,2
+featurization,The selected string focuses on a political event.,29,nyt,2
+featurization,The selected string includes direct quotes from local residents.,30,nyt,2
+featurization,The selected string targets a local audience in New Jersey.,31,nyt,2
+featurization,The selected string is set in a winter sports championship context.,32,nyt,2
+featurization,The selected string discusses a specific state law and its impact.,33,nyt,2
+featurization,The selected string focuses on a specific Olympic event.,34,nyt,2
+featurization,The selected string emphasizes public education and awareness.,35,nyt,2
+featurization,The selected string focuses on a single dramatic event.,36,nyt,2
+featurization,The selected string emphasizes religious and ethical considerations.,37,nyt,2
+featurization,The selected string highlights professional achievements in New York City.,38,nyt,2
+featurization,The selected string includes specific player statistics and game details.,39,nyt,2
+featurization,The selected string includes courtroom dialogue and exchanges.,40,nyt,2
+featurization,The selected string includes contact information for obtaining booklets.,41,nyt,2
+featurization,The selected string provides a specific address for reader action.,42,nyt,2
+featurization,The selected string focuses on travel deals and discounts.,43,nyt,2
+featurization,The selected string includes statistical data and expert quotes.,44,nyt,2
+featurization,The selected string involves a specific historical event.,45,nyt,2
+featurization,"The selected string discusses a specific political figure, President Bush.",46,nyt,2
+featurization,The selected string includes specific geographic directions and distances.,47,nyt,2
+featurization,The selected string discusses government policy and fiscal management.,48,nyt,2
+featurization,The selected string focuses on a single tragic event.,49,nyt,2
+baseline,praise practicality and utility in product reviews.,0,amazon,0
+baseline,focus on child engagement and educational value.,1,amazon,0
+baseline,show discontent with the product's quality or description.,2,amazon,0
+baseline,appreciate aesthetic appeal and design quality.,3,amazon,0
+baseline,discuss experiences with movies or television series.,4,amazon,0
+baseline,refer to customer service experiences.,5,amazon,0
+baseline,involve comparisons to previous versions or models.,6,amazon,0
+baseline,offer insights into the compatibility of accessories.,7,amazon,0
+baseline,emphasize sentimental or emotional value.,8,amazon,0
+baseline,mention the product's efficacy or effectiveness.,9,amazon,0
+baseline,include descriptions of product packaging and delivery times.,10,amazon,0
+baseline,provide recommendations for specific age groups.,11,amazon,0
+baseline,mention environmental factors like weather or geographical locations.,12,amazon,0
+baseline,describe recreational or leisurely activities.,13,amazon,0
+baseline,highlight the reliability or durability over time.,14,amazon,0
+baseline,involve specific characters from pop culture.,15,amazon,0
+baseline,focus on product assembly or installation processes.,16,amazon,0
+baseline,reference humor or entertainment elements.,17,amazon,0
+baseline,involve specific colors and their aesthetic appeal.,18,amazon,0
+baseline,illustrate product versatility and various uses.,19,amazon,0
+baseline,involve an expert or technical analysis.,20,amazon,0
+baseline,share personal stories or anecdotal experiences.,21,amazon,0
+baseline,evaluate product components like batteries or chargers.,22,amazon,0
+baseline,assess educational or instructional materials.,23,amazon,0
+baseline,rely on comparisons to other similar products.,24,amazon,0
+baseline,report on customer satisfaction or dissatisfaction.,25,amazon,0
+baseline,include mentions of holidays or special occasions.,26,amazon,0
+baseline,describe personal preferences or tastes.,27,amazon,0
+baseline,mention the size or dimensions of products.,28,amazon,0
+baseline,illustrate unique or creative gift ideas.,29,amazon,0
+baseline,focus on handcrafting or artistic creations.,30,amazon,0
+baseline,convey a sense of nostalgia.,31,amazon,0
+baseline,include detailed attention to product texture or material.,32,amazon,0
+baseline,involve brand names or specific product lines.,33,amazon,0
+baseline,contain opinions on product price points.,34,amazon,0
+baseline,talk about learning tools or educational resources.,35,amazon,0
+baseline,use metaphor to describe the user experience.,36,amazon,0
+baseline,involve safety considerations in product use.,37,amazon,0
+baseline,involve ease of use or user-friendliness.,38,amazon,0
+baseline,stress product impact on lifestyle changes.,39,amazon,0
+baseline,involve collective or group experiences.,40,amazon,0
+baseline,include technology or tech-based products.,41,amazon,0
+baseline,talk about activities or hobbies.,42,amazon,0
+baseline,include feedback on product features or utilities.,43,amazon,0
+baseline,provide context in terms of expected product performance.,44,amazon,0
+baseline,reflect seasons or weather conditions in reviews.,45,amazon,0
+baseline,involve descriptions of physical product features.,46,amazon,0
+baseline,express uniqueness or individuality of products.,47,amazon,0
+baseline,involve domestic or household applications.,48,amazon,0
+baseline,discuss the social or cultural relevance of products.,49,amazon,0
+prompting,"The selected string uses simple, everyday vocabulary.",0,amazon,0
+prompting,The selected string uses informal language with 'looooved'.,1,amazon,0
+prompting,The selected string uses character development and emotional depth.,2,amazon,0
+prompting,The selected string has a more educational and informative tone.,3,amazon,0
+prompting,The selected string conveys excitement with an exclamatory sentence.,4,amazon,0
+prompting,"The selected string uses a straightforward, simple narrative style.",5,amazon,0
+prompting,The selected string focuses on social validation through compliments.,6,amazon,0
+prompting,The selected string employs a conversational and personal tone.,7,amazon,0
+prompting,"The selected string uses straightforward, simple vocabulary.",8,amazon,0
+prompting,The selected string focuses on entertainment value over critical analysis.,9,amazon,0
+prompting,The selected string lacks narrative or storytelling elements.,10,amazon,0
+prompting,The selected string is concise with minimal detail.,11,amazon,0
+prompting,The selected string focuses on craftsmanship and physical attributes.,12,amazon,0
+prompting,The selected string lacks specific product details or examples.,13,amazon,0
+prompting,The selected string uses playful tone with 'itty bitty' phrase.,14,amazon,0
+prompting,The selected string includes specific toy features like shapes.,15,amazon,0
+prompting,The selected string is notably longer and more detailed.,16,amazon,0
+prompting,The selected string references specific TV shows for comparison.,17,amazon,0
+prompting,The selected string conveys confidence in the purchasing decision.,18,amazon,0
+prompting,The selected string focuses on physical condition and enjoyment separately.,19,amazon,0
+prompting,"The selected string uses a positive, encouraging tone.",20,amazon,0
+prompting,The selected string includes a direct plea to the creators.,21,amazon,0
+prompting,The selected string lacks emotional or personal anecdotes.,22,amazon,0
+prompting,"The selected string uses simple, straightforward vocabulary.",23,amazon,0
+prompting,The selected string addresses potential concerns for specific audiences.,24,amazon,0
+prompting,The selected string focuses on emotional themes like grief.,25,amazon,0
+prompting,The selected string has a nostalgic tone.,26,amazon,0
+prompting,The selected string uses a numerical rating in the title.,27,amazon,0
+prompting,The selected string expresses mixed feelings about the purchase.,28,amazon,0
+prompting,The selected string uses informal language like 'idk' and 'happend'.,29,amazon,0
+prompting,The selected string lacks enthusiasm for the book's plot.,30,amazon,0
+prompting,"The selected string uses simple, straightforward language.",31,amazon,0
+prompting,The selected string offers practical advice for product usage.,32,amazon,0
+prompting,The selected string includes a humorous remark about space.,33,amazon,0
+prompting,The selected string highlights a cultural era: 90's grunge music.,34,amazon,0
+prompting,The selected string lacks detailed product description.,35,amazon,0
+prompting,"The selected string uses simple, everyday vocabulary.",36,amazon,0
+prompting,The selected string is concise and to the point.,37,amazon,0
+prompting,The selected string uses enthusiastic and positive language.,38,amazon,0
+prompting,The selected string is part of a book series.,39,amazon,0
+prompting,The selected string includes a recommendation to potential readers.,40,amazon,0
+prompting,The selected string anticipates future content with excitement.,41,amazon,0
+prompting,The selected string is concise and to the point.,42,amazon,0
+prompting,The selected string focuses on aesthetic appeal and quality.,43,amazon,0
+prompting,The selected string focuses on product functionality issues.,44,amazon,0
+prompting,The selected string uses HTML tags for line breaks.,45,amazon,0
+prompting,The selected string includes a personal anecdote about a child.,46,amazon,0
+prompting,"The selected string focuses on crafting materials, not entertainment.",47,amazon,0
+prompting,The selected string uses a conversational and personal tone.,48,amazon,0
+prompting,The selected string uses detailed descriptions of cinematic elements.,49,amazon,0
+featurization,The selected string lacks detailed product description.,0,amazon,0
+featurization,The selected string focuses on a specific product experience.,1,amazon,0
+featurization,The selected string includes specific media references.,2,amazon,0
+featurization,The selected string focuses on crafting and DIY activities.,3,amazon,0
+featurization,The selected string contains a mix of positive and negative feedback.,4,amazon,0
+featurization,The selected string lacks detailed product description or context.,5,amazon,0
+featurization,The selected string focuses on a physical product review.,6,amazon,0
+featurization,The selected string lacks specific details about the book.,7,amazon,0
+featurization,The selected string uses HTML tags for formatting.,8,amazon,0
+featurization,The selected string is notably shorter in length.,9,amazon,0
+featurization,The selected string emphasizes seller performance and product accuracy.,10,amazon,0
+featurization,"The selected string uses concise, positive language.",11,amazon,0
+featurization,The selected string focuses on a single subject: a book.,12,amazon,0
+featurization,The selected string focuses on children's toys and accessories.,13,amazon,0
+featurization,The selected string targets a crafting or DIY audience.,14,amazon,0
+featurization,The selected string provides specific product details and examples.,15,amazon,0
+featurization,The selected string targets DVD collectors or movie enthusiasts.,16,amazon,0
+featurization,The selected string suggests a specific style preference for wear.,17,amazon,0
+featurization,The selected string lacks specific product details.,18,amazon,0
+featurization,The selected string appeals to readers interested in historical narratives.,19,amazon,0
+featurization,The selected string uses repetition for emphasis.,20,amazon,0
+featurization,The selected string is longer and more detailed.,21,amazon,0
+featurization,The selected string focuses on a specific recipient's characteristics.,22,amazon,0
+featurization,The selected string lacks detailed descriptions.,23,amazon,0
+featurization,"The selected string focuses on a single, specific issue.",24,amazon,0
+featurization,The selected string focuses on home decor.,25,amazon,0
+featurization,The selected string includes cultural and spiritual themes.,26,amazon,0
+featurization,The selected string includes a logistical plan for product use.,27,amazon,0
+featurization,The selected string focuses on educational content for children.,28,amazon,0
+featurization,The selected string targets both children and adult audiences.,29,amazon,0
+featurization,The selected string is detailed about the gift's features and impact.,30,amazon,0
+featurization,The selected string contains a detailed narrative plot.,31,amazon,0
+featurization,The selected string focuses on a physical product's size.,32,amazon,0
+featurization,The selected string targets a specific audience: ladies.,33,amazon,0
+featurization,The selected string focuses on visual appeal of colors.,34,amazon,0
+featurization,The selected string focuses on a specific product feature.,35,amazon,0
+featurization,The selected string includes technical details about product features.,36,amazon,0
+featurization,The selected string focuses on a specific product issue.,37,amazon,0
+featurization,"The selected string critiques a TV show, not a product.",38,amazon,0
+featurization,The selected string mentions a specific future use scenario.,39,amazon,0
+featurization,The selected string uses humor as a central theme.,40,amazon,0
+featurization,The selected string mentions sharing with friends.,41,amazon,0
+featurization,The selected string highlights packaging as a notable feature.,42,amazon,0
+featurization,The selected string highlights community support and love.,43,amazon,0
+featurization,The selected string includes specific age references for children.,44,amazon,0
+featurization,The selected string mentions packaging and delivery details.,45,amazon,0
+featurization,The selected string includes character backstories and development.,46,amazon,0
+featurization,The selected string includes a specific author's name.,47,amazon,0
+featurization,The selected string includes a detailed book review.,48,amazon,0
+featurization,The selected string targets a multi-generational audience.,49,amazon,0
+baseline,mention cleaning products or tools.,0,amazon,1
+baseline,reference magazines or publications.,1,amazon,1
+baseline,include comments on clothing or fashion items.,2,amazon,1
+baseline,describe experiences with electronic or technical items.,3,amazon,1
+baseline,state opinions on decorative or household items.,4,amazon,1
+baseline,discuss wallet-friendly purchases or budgeting.,5,amazon,1
+baseline,highlight environmental concerns or sustainable choices.,6,amazon,1
+baseline,express satisfaction or dissatisfaction with gift card experiences.,7,amazon,1
+baseline,describe personal care or beauty items.,8,amazon,1
+baseline,reveal thoughts on specific foods or kitchen gadgets.,9,amazon,1
+baseline,comment on pet items or animal care.,10,amazon,1
+baseline,engage in outdoor or gardening topics.,11,amazon,1
+baseline,relate to fitness and sports equipment.,12,amazon,1
+baseline,provide insights about travel and vacation experiences.,13,amazon,1
+baseline,reflect on photography or art supplies.,14,amazon,1
+baseline,focus on children's toys or activities.,15,amazon,1
+baseline,discuss media or entertainment consumption habits.,16,amazon,1
+baseline,include feedback on musical instruments.,17,amazon,1
+baseline,pertain to experiences with footwear.,18,amazon,1
+baseline,involve topics on health or wellness products.,19,amazon,1
+baseline,contain feedback on customer service experiences.,20,amazon,1
+baseline,highlight storage solutions or organizational products.,21,amazon,1
+baseline,discuss tools or hardware for projects.,22,amazon,1
+baseline,evaluate vehicle-related products.,23,amazon,1
+baseline,include comments about office supplies.,24,amazon,1
+baseline,reflect opinions on fragrances or scents.,25,amazon,1
+baseline,focus on quality and durability assessments.,26,amazon,1
+baseline,engage in opinions about weight loss or fitness aids.,27,amazon,1
+baseline,express values on simplicity and convenience.,28,amazon,1
+baseline,detail jewelry or accessory preferences.,29,amazon,1
+baseline,include thoughts on electronic gadget cases.,30,amazon,1
+baseline,discuss beverages or drink-making tools.,31,amazon,1
+baseline,reference gaming or hobbyist interests.,32,amazon,1
+baseline,contain feedback about magazine subscription prices.,33,amazon,1
+baseline,involve recommendations or tips.,34,amazon,1
+baseline,mention arts and crafts materials.,35,amazon,1
+baseline,discuss unique aspects or tweaks of products.,36,amazon,1
+baseline,assess home and kitchen appliances.,37,amazon,1
+baseline,"involve fun, entertaining packaging.",38,amazon,1
+baseline,refer to shopping or retail experiences.,39,amazon,1
+baseline,reference opinions about animals or wildlife.,40,amazon,1
+baseline,highlight issues with sizing or product fit.,41,amazon,1
+baseline,engage in jokes or light-hearted comments.,42,amazon,1
+baseline,refer to musical sound quality.,43,amazon,1
+baseline,state experiences with weather-specific items.,44,amazon,1
+baseline,critique services or platforms for purchases.,45,amazon,1
+baseline,explore organic or natural product descriptions.,46,amazon,1
+baseline,suggest improvements or modifications.,47,amazon,1
+baseline,highlight brand reputations or expectations.,48,amazon,1
+baseline,discuss mailing or delivery experiences.,49,amazon,1
+prompting,The selected string focuses on affordability and value.,0,amazon,1
+prompting,The selected string provides a mixed review with specific examples.,1,amazon,1
+prompting,The selected string includes a specific use case scenario.,2,amazon,1
+prompting,The selected string has an upbeat and positive tone.,3,amazon,1
+prompting,The selected string is notably shorter than the other reviews.,4,amazon,1
+prompting,The selected string focuses on gift-giving convenience.,5,amazon,1
+prompting,The selected string uses a personal wishful tone.,6,amazon,1
+prompting,The selected string uses informal language like 'yay'.,7,amazon,1
+prompting,"The selected string uses simple, direct language without technical terms.",8,amazon,1
+prompting,The selected string emphasizes honesty with 'I do NOT receive compensation'.,9,amazon,1
+prompting,The selected string uses technical details (nose bridge wire).,10,amazon,1
+prompting,The selected string discusses a subscription-related issue.,11,amazon,1
+prompting,The selected string includes specific product benefits and features.,12,amazon,1
+prompting,The selected string critiques marketing and commercial aspects.,13,amazon,1
+prompting,The selected string uses HTML tags for line breaks.,14,amazon,1
+prompting,The selected string describes a seamless redemption process.,15,amazon,1
+prompting,The selected string is longer and more comprehensive in detail.,16,amazon,1
+prompting,The selected string is concise and to the point.,17,amazon,1
+prompting,The selected string critiques the frequency of email communication.,18,amazon,1
+prompting,The selected string suggests a simple solution for a potential issue.,19,amazon,1
+prompting,The selected string implies satisfaction without specific product features.,20,amazon,1
+prompting,The selected string emphasizes versatility in clothing usage.,21,amazon,1
+prompting,The selected string discusses product compatibility with specific materials.,22,amazon,1
+prompting,The selected string mentions a positive outcome despite initial concerns.,23,amazon,1
+prompting,The selected string focuses on problem-solving for craft storage issues.,24,amazon,1
+prompting,The selected string focuses on a specific product flaw.,25,amazon,1
+prompting,The selected string contrasts two different product materials.,26,amazon,1
+prompting,The selected string uses ellipses for dramatic effect.,27,amazon,1
+prompting,The selected string implies a geographical limitation affecting usage.,28,amazon,1
+prompting,The selected string lacks detailed product performance information.,29,amazon,1
+prompting,The selected string lacks any negative or critical feedback.,30,amazon,1
+prompting,The selected string uses a personal anecdote about a family member.,31,amazon,1
+prompting,The selected string uses a negative tone throughout.,32,amazon,1
+prompting,The selected string includes a detailed usage scenario.,33,amazon,1
+prompting,The selected string addresses a specific usability issue.,34,amazon,1
+prompting,The selected string focuses on global spa experiences.,35,amazon,1
+prompting,The selected string addresses a specific customer service problem.,36,amazon,1
+prompting,"The selected string uses a positive, straightforward tone.",37,amazon,1
+prompting,The selected string uses exclamatory sentences for emphasis.,38,amazon,1
+prompting,The selected string focuses on product functionality and effectiveness.,39,amazon,1
+prompting,The selected string focuses on initial skepticism turned satisfaction.,40,amazon,1
+prompting,The selected string includes a recommendation for future purchases.,41,amazon,1
+prompting,"The selected string has a positive, solution-oriented tone.",42,amazon,1
+prompting,The selected string reflects nostalgia for past magazine quality.,43,amazon,1
+prompting,The selected string focuses on product durability issues.,44,amazon,1
+prompting,The selected string uses a positive and affirming tone.,45,amazon,1
+prompting,The selected string uses repetition for emphasis.,46,amazon,1
+prompting,The selected string focuses on a specific personal use case.,47,amazon,1
+prompting,The selected string implies a gift-giving context.,48,amazon,1
+prompting,The selected string includes a personal anecdote about adjusting fit.,49,amazon,1
+featurization,The selected string lacks detailed product description.,0,amazon,1
+featurization,The selected string focuses on a gift card experience.,1,amazon,1
+featurization,The selected string focuses on a specific product use case.,2,amazon,1
+featurization,The selected string uses HTML tags for line breaks.,3,amazon,1
+featurization,The selected string focuses on magazine content and format.,4,amazon,1
+featurization,The selected string focuses on a specific product issue.,5,amazon,1
+featurization,The selected string highlights product quality and satisfaction.,6,amazon,1
+featurization,The selected string includes a practical problem-solving tone.,7,amazon,1
+featurization,The selected string uses a positive tone throughout the review.,8,amazon,1
+featurization,The selected string focuses on gift presentation.,9,amazon,1
+featurization,The selected string emphasizes physical attributes of the product.,10,amazon,1
+featurization,"The selected string uses a concise, positive tone.",11,amazon,1
+featurization,The selected string includes a detailed critique of content.,12,amazon,1
+featurization,The selected string uses a direct reference to Amazon's service.,13,amazon,1
+featurization,The selected string expresses brand loyalty and repeated purchases.,14,amazon,1
+featurization,The selected string focuses on product performance benefits and drawbacks.,15,amazon,1
+featurization,The selected string focuses on clothing fit and comfort.,16,amazon,1
+featurization,The selected string uses a positive tone throughout.,17,amazon,1
+featurization,The selected string uses an emoticon to convey emotion.,18,amazon,1
+featurization,The selected string uses humor in its product description.,19,amazon,1
+featurization,The selected string addresses a specific order issue.,20,amazon,1
+featurization,The selected string provides detailed descriptions of product features.,21,amazon,1
+featurization,The selected string includes a direct warning to potential buyers.,22,amazon,1
+featurization,The selected string discusses a subscription-related issue.,23,amazon,1
+featurization,The selected string focuses on health and wellness.,24,amazon,1
+featurization,The selected string focuses on packaging and assembly details.,25,amazon,1
+featurization,"The selected string praises a publication, not a product.",26,amazon,1
+featurization,The selected string is notably shorter in length.,27,amazon,1
+featurization,The selected string focuses on a specific product feature.,28,amazon,1
+featurization,The selected string focuses on a specific age group.,29,amazon,1
+featurization,The selected string focuses on general usefulness.,30,amazon,1
+featurization,The selected string focuses on gifting experience.,31,amazon,1
+featurization,"The selected string uses informal language, e.g., 'Yeah Buddy'.",32,amazon,1
+featurization,The selected string includes a specific magazine title.,33,amazon,1
+featurization,The selected string focuses on product size misjudgment.,34,amazon,1
+featurization,"The selected string uses straightforward, simple vocabulary.",35,amazon,1
+featurization,The selected string focuses on fabric texture and feel.,36,amazon,1
+featurization,The selected string includes cultural and aesthetic references.,37,amazon,1
+featurization,The selected string targets a general audience interested in entertainment.,38,amazon,1
+featurization,The selected string targets a specific gender audience.,39,amazon,1
+featurization,The selected string includes specific product comparisons.,40,amazon,1
+featurization,The selected string addresses potential objections from specific subpopulations.,41,amazon,1
+featurization,The selected string focuses on a niche hobby application.,42,amazon,1
+featurization,The selected string expresses a personal wish or desire.,43,amazon,1
+featurization,The selected string uses repetition for emphasis.,44,amazon,1
+featurization,The selected string focuses on product flaws.,45,amazon,1
+featurization,"The selected string uses simple, straightforward language.",46,amazon,1
+featurization,The selected string uses ellipses for dramatic effect.,47,amazon,1
+featurization,"The selected string uses concise, straightforward language.",48,amazon,1
+featurization,The selected string employs repetitive phrasing for emphasis.,49,amazon,1
+baseline,indicate product benefits.,0,amazon,2
+baseline,describe packaging or delivery.,1,amazon,2
+baseline,mention personal anecdotes.,2,amazon,2
+baseline,highlight product defects.,3,amazon,2
+baseline,reference pricing concerns.,4,amazon,2
+baseline,describe product appearance.,5,amazon,2
+baseline,mention comparative products.,6,amazon,2
+baseline,express disappointment.,7,amazon,2
+baseline,highlight product efficacy.,8,amazon,2
+baseline,include installation experiences.,9,amazon,2
+baseline,mention gift recipients.,10,amazon,2
+baseline,describe taste.,11,amazon,2
+baseline,include quantity details.,12,amazon,2
+baseline,describe product longevity.,13,amazon,2
+baseline,mention specific brands.,14,amazon,2
+baseline,express expectations versus reality.,15,amazon,2
+baseline,describe product's usage context.,16,amazon,2
+baseline,highlight ease of use.,17,amazon,2
+baseline,mention product's size.,18,amazon,2
+baseline,reference external resources.,19,amazon,2
+baseline,describe sensory experiences.,20,amazon,2
+baseline,mention faulty performance.,21,amazon,2
+baseline,compare against past purchases.,22,amazon,2
+baseline,mention additional purchases.,23,amazon,2
+baseline,identify product components.,24,amazon,2
+baseline,mention pets.,25,amazon,2
+baseline,describe health benefits.,26,amazon,2
+baseline,highlight cleaning or maintenance.,27,amazon,2
+baseline,emphasize design aesthetics.,28,amazon,2
+baseline,reference weather conditions.,29,amazon,2
+baseline,describe flavor components.,30,amazon,2
+baseline,highlight ease of assembly.,31,amazon,2
+baseline,indicate shipping issues.,32,amazon,2
+baseline,describe emotional reactions.,33,amazon,2
+baseline,mention dietary preferences.,34,amazon,2
+baseline,mention customer service.,35,amazon,2
+baseline,give temporal contexts.,36,amazon,2
+baseline,refer to technological features.,37,amazon,2
+baseline,mention competing claims.,38,amazon,2
+baseline,highlight multi-use functionality.,39,amazon,2
+baseline,refer to food recipes.,40,amazon,2
+baseline,point out strong brand loyalty.,41,amazon,2
+baseline,emphasize visual presentation.,42,amazon,2
+baseline,discuss packaging materials.,43,amazon,2
+baseline,highlight functionality in specific scenarios.,44,amazon,2
+baseline,describe specific product types.,45,amazon,2
+baseline,mention economic value.,46,amazon,2
+baseline,cite expert recommendations.,47,amazon,2
+baseline,refer to durability concerns.,48,amazon,2
+baseline,relay precise measurements.,49,amazon,2
+prompting,The selected string mentions the product's country of origin.,0,amazon,2
+prompting,The selected string employs a conversational tone with direct advice.,1,amazon,2
+prompting,The selected string uses a conversational tone with 'matter of fact'.,2,amazon,2
+prompting,The selected string contains an update section for additional insights.,3,amazon,2
+prompting,The selected string includes a self-reflective tone about personal habits.,4,amazon,2
+prompting,The selected string includes a resolution offer from the seller.,5,amazon,2
+prompting,The selected string describes a technical feature: USB C charging.,6,amazon,2
+prompting,The selected string mentions specific product features and performance issues.,7,amazon,2
+prompting,The selected string includes a specific time frame of usage.,8,amazon,2
+prompting,The selected string highlights ease of cleaning.,9,amazon,2
+prompting,The selected string implies universal approval from multiple people.,10,amazon,2
+prompting,The selected string expresses gratitude towards a brand.,11,amazon,2
+prompting,The selected string has a concise and direct tone.,12,amazon,2
+prompting,The selected string provides specific measurements and comparisons.,13,amazon,2
+prompting,The selected string focuses on a single product feature.,14,amazon,2
+prompting,The selected string mentions personal preferences affecting product use.,15,amazon,2
+prompting,"The selected string has a neutral, matter-of-fact tone.",16,amazon,2
+prompting,The selected string uses a metaphorical phrase 'A little wonder'.,17,amazon,2
+prompting,The selected string describes a physical interaction with the product.,18,amazon,2
+prompting,The selected string uses a problem-solution narrative structure.,19,amazon,2
+prompting,The selected string targets a specific product model.,20,amazon,2
+prompting,The selected string expresses strong dissatisfaction and disappointment.,21,amazon,2
+prompting,"The selected string employs a casual, informal writing style.",22,amazon,2
+prompting,The selected string provides detailed product functionality insights.,23,amazon,2
+prompting,The selected string maintains a positive and informative tone.,24,amazon,2
+prompting,The selected string lacks emotional or sensory language.,25,amazon,2
+prompting,The selected string emphasizes value and satisfaction.,26,amazon,2
+prompting,The selected string uses a more critical and negative tone.,27,amazon,2
+prompting,The selected string lacks emotional or subjective expressions.,28,amazon,2
+prompting,The selected string includes emotive expressions like '[*sigh ...*]'.,29,amazon,2
+prompting,The selected string emphasizes ease of cleaning with a washable cover.,30,amazon,2
+prompting,The selected string is brief and to the point.,31,amazon,2
+prompting,The selected string uses a conversational and informal tone.,32,amazon,2
+prompting,The selected string focuses on product durability over time.,33,amazon,2
+prompting,The selected string uses a personal anecdote about product use.,34,amazon,2
+prompting,The selected string provides a recommendation and gift suggestion.,35,amazon,2
+prompting,The selected string focuses on product authenticity concerns.,36,amazon,2
+prompting,The selected string uses sensory language to describe an experience.,37,amazon,2
+prompting,The selected string lacks specific product details or features.,38,amazon,2
+prompting,The selected string expresses dissatisfaction with the product.,39,amazon,2
+prompting,The selected string uses a personal anecdote for relatability.,40,amazon,2
+prompting,The selected string uses humor to engage the reader.,41,amazon,2
+prompting,The selected string lacks technical or product-specific details.,42,amazon,2
+prompting,The selected string focuses on aesthetic appeal and satisfaction.,43,amazon,2
+prompting,The selected string mentions a specific food combination.,44,amazon,2
+prompting,The selected string lacks detailed explanations or tips.,45,amazon,2
+prompting,The selected string focuses on product durability despite failure.,46,amazon,2
+prompting,The selected string focuses on a specific cooking ingredient.,47,amazon,2
+prompting,The selected string is concise and to the point.,48,amazon,2
+prompting,"The selected string uses a straightforward, factual tone.",49,amazon,2
+featurization,The selected string includes specific product usage context.,0,amazon,2
+featurization,The selected string focuses on a single product issue.,1,amazon,2
+featurization,The selected string describes a pet-related product.,2,amazon,2
+featurization,The selected string focuses on a specific food product.,3,amazon,2
+featurization,The selected string balances positive and negative feedback effectively.,4,amazon,2
+featurization,The selected string emphasizes repeat purchase behavior.,5,amazon,2
+featurization,The selected string highlights aesthetic appeal of the product.,6,amazon,2
+featurization,The selected string provides a comparison with previous similar products.,7,amazon,2
+featurization,The selected string mentions specific product categories: appliance and jeep parts.,8,amazon,2
+featurization,The selected string uses HTML tags for formatting.,9,amazon,2
+featurization,"The selected string uses a positive, straightforward tone.",10,amazon,2
+featurization,The selected string uses a positive tone throughout the review.,11,amazon,2
+featurization,"The selected string uses simple, straightforward language.",12,amazon,2
+featurization,The selected string focuses on delivery condition.,13,amazon,2
+featurization,"The selected string has a neutral, factual tone.",14,amazon,2
+featurization,The selected string focuses on price and value.,15,amazon,2
+featurization,The selected string includes a detailed product failure description.,16,amazon,2
+featurization,The selected string focuses on taste and flavor.,17,amazon,2
+featurization,The selected string includes a comparison of product alternatives.,18,amazon,2
+featurization,The selected string uses humor to describe product experience.,19,amazon,2
+featurization,The selected string includes a detailed description of product features.,20,amazon,2
+featurization,The selected string involves a DIY repair scenario.,21,amazon,2
+featurization,The selected string lacks detailed product usage information.,22,amazon,2
+featurization,The selected string uses creative punctuation for emphasis.,23,amazon,2
+featurization,The selected string emphasizes product's protective capability.,24,amazon,2
+featurization,The selected string provides practical usage tips for the product.,25,amazon,2
+featurization,The selected string focuses on aesthetic appeal and visual matching.,26,amazon,2
+featurization,The selected string includes a direct product comparison.,27,amazon,2
+featurization,The selected string mentions a sensor interaction.,28,amazon,2
+featurization,The selected string emphasizes health benefits of the product.,29,amazon,2
+featurization,The selected string includes a dog's approval as a detail.,30,amazon,2
+featurization,The selected string contains a detailed list of consumed items.,31,amazon,2
+featurization,The selected string includes a detailed product update section.,32,amazon,2
+featurization,The selected string mentions packaging functionality.,33,amazon,2
+featurization,The selected string focuses on product construction quality.,34,amazon,2
+featurization,The selected string lacks detailed product descriptions.,35,amazon,2
+featurization,The selected string focuses on variety and assortment.,36,amazon,2
+featurization,The selected string uses specific product compatibility details.,37,amazon,2
+featurization,The selected string lists detailed pros and cons.,38,amazon,2
+featurization,The selected string references a visual aid (photo).,39,amazon,2
+featurization,The selected string focuses on a specific cooking ingredient.,40,amazon,2
+featurization,The selected string includes specific measurements and product details.,41,amazon,2
+featurization,The selected string discusses cleaning and maintenance aspects.,42,amazon,2
+featurization,The selected string describes product functionality with sensory details.,43,amazon,2
+featurization,The selected string focuses on product functionality and benefits.,44,amazon,2
+featurization,"The selected string uses simple, straightforward vocabulary.",45,amazon,2
+featurization,The selected string uses a positive tone throughout.,46,amazon,2
+featurization,The selected string targets a DIY or handyman audience.,47,amazon,2
+featurization,The selected string describes a workaround for a design change.,48,amazon,2
+featurization,The selected string focuses on a household problem-solving gadget.,49,amazon,2
+clustering,The selected string uses a positive and commendatory tone.,0,nyt,0
+clustering,The selected string focuses on a single individual's life story.,1,nyt,0
+clustering,"The selected string uses straightforward, factual language.",2,nyt,0
+clustering,The selected string uses a hopeful and optimistic tone throughout.,3,nyt,0
+clustering,The selected string is concise and focused on a single event.,4,nyt,0
+clustering,"The selected string uses a personal, reflective tone.",5,nyt,0
+clustering,The selected string focuses on consumer products and their details.,6,nyt,0
+clustering,The selected string highlights a conflict between preservation and modernization.,7,nyt,0
+clustering,The selected string is concise and to the point.,8,nyt,0
+clustering,The selected string incorporates visual elements through photography references.,9,nyt,0
+clustering,The selected string focuses on a sports event outcome.,10,nyt,0
+clustering,The selected string uses a conversational and empathetic tone.,11,nyt,0
+clustering,The selected string emphasizes cultural impact and public sentiment.,12,nyt,0
+clustering,The selected string emphasizes individual talent and artistic growth.,13,nyt,0
+clustering,The selected string includes detailed descriptions of settings and actions.,14,nyt,0
+clustering,The selected string references current events for contextual relevance.,15,nyt,0
+clustering,The selected string lacks narrative or descriptive elements.,16,nyt,0
+clustering,The selected string lists multiple events with specific dates and times.,17,nyt,0
+clustering,"The selected string focuses on a single, localized setting in New York.",18,nyt,0
+clustering,The selected string includes references to historical figures and events.,19,nyt,0
+clustering,The selected string includes expert opinions and quotes.,20,nyt,0
+clustering,The selected string uses a conversational tone with direct quotes.,21,nyt,0
+clustering,"The selected string is concise, focusing on a single topic.",22,nyt,0
+clustering,The selected string focuses on art and cultural experiences.,23,nyt,0
+clustering,The selected string references philosophical and political discourse.,24,nyt,0
+clustering,The selected string uses a formal and factual writing style.,25,nyt,0
+clustering,The selected string addresses a specific error in a previous article.,26,nyt,0
+clustering,The selected string includes specific exhibition dates and locations.,27,nyt,0
+clustering,The selected string is concise and under 100 words.,28,nyt,0
+clustering,The selected string targets an audience seeking accuracy and transparency.,29,nyt,0
+clustering,The selected string uses a first-person narrative perspective.,30,nyt,0
+clustering,The selected string focuses on a sports event narrative.,31,nyt,0
+clustering,The selected string highlights a specific individual's professional achievements.,32,nyt,0
+clustering,The selected string features a political context and setting.,33,nyt,0
+clustering,The selected string is specific to a geographical location.,34,nyt,0
+clustering,The selected string focuses on a specific design innovation.,35,nyt,0
+clustering,The selected string focuses on luxury and high-risk lifestyles.,36,nyt,0
+clustering,The selected string uses scientific terminology and concepts extensively.,37,nyt,0
+clustering,The selected string uses a promotional tone.,38,nyt,0
+clustering,The selected string focuses on a personal anecdote.,39,nyt,0
+clustering,The selected string uses a celebratory and triumphant tone.,40,nyt,0
+clustering,The selected string critiques political and social values.,41,nyt,0
+clustering,The selected string addresses a specific event with minimal context.,42,nyt,0
+clustering,The selected string emphasizes emotional and ethical implications.,43,nyt,0
+clustering,The selected string targets an audience interested in travel logistics.,44,nyt,0
+clustering,The selected string uses a factual and informative tone.,45,nyt,0
+clustering,The selected string focuses on historical and cultural artifacts.,46,nyt,0
+clustering,The selected string uses a journalistic tone with factual reporting.,47,nyt,0
+clustering,The selected string lacks narrative or storytelling elements.,48,nyt,0
+clustering,The selected string is set in a specific urban location.,49,nyt,0
+clustering,The selected string focuses on personal reflections and introspection.,0,nyt,1
+clustering,The selected string explores the intersection of design and lifestyle.,1,nyt,1
+clustering,The selected string uses a critical and investigative tone.,2,nyt,1
+clustering,The selected string focuses on personal recovery and resilience.,3,nyt,1
+clustering,The selected string includes specific legal and procedural details.,4,nyt,1
+clustering,The selected string includes specific numerical data and statistics.,5,nyt,1
+clustering,The selected string focuses on sports and player trades.,6,nyt,1
+clustering,The selected string emphasizes historical context and tradition of giving.,7,nyt,1
+clustering,The selected string includes specific performance details and song titles.,8,nyt,1
+clustering,The selected string highlights innovative product design and branding.,9,nyt,1
+clustering,The selected string is set in an international diplomatic context.,10,nyt,1
+clustering,The selected string uses a formal and authoritative tone.,11,nyt,1
+clustering,The selected string focuses on design and furniture trends.,12,nyt,1
+clustering,The selected string is set in a rural American town.,13,nyt,1
+clustering,The selected string highlights a specific character's personality traits.,14,nyt,1
+clustering,The selected string includes a specific correction date.,15,nyt,1
+clustering,The selected string includes symbolic gestures and ceremonies.,16,nyt,1
+clustering,The selected string includes future episode previews for viewer engagement.,17,nyt,1
+clustering,"The selected string uses a light, engaging tone throughout.",18,nyt,1
+clustering,The selected string includes specific brand and designer names.,19,nyt,1
+clustering,The selected string includes direct quotes from industry professionals.,20,nyt,1
+clustering,The selected string targets an audience interested in historical events.,21,nyt,1
+clustering,The selected string targets an entertainment-focused audience.,22,nyt,1
+clustering,The selected string focuses on personalizing living spaces.,23,nyt,1
+clustering,The selected string uses a conversational tone with direct quotes.,24,nyt,1
+clustering,The selected string focuses on a political and legal theme.,25,nyt,1
+clustering,The selected string includes direct quotes from political figures.,26,nyt,1
+clustering,The selected string mentions a specific political figure.,27,nyt,1
+clustering,The selected string highlights cultural and artistic heritage.,28,nyt,1
+clustering,The selected string emphasizes consumer behavior and market trends.,29,nyt,1
+clustering,The selected string uses vivid imagery to describe settings.,30,nyt,1
+clustering,The selected string includes dialogue to enhance character development.,31,nyt,1
+clustering,The selected string is concise and event-specific.,32,nyt,1
+clustering,The selected string uses a formal and informative writing style.,33,nyt,1
+clustering,The selected string focuses on political and economic themes.,34,nyt,1
+clustering,The selected string focuses on ethical dilemmas and personal decisions.,35,nyt,1
+clustering,The selected string discusses international aid and political dynamics.,36,nyt,1
+clustering,The selected string focuses on a specific international incident.,37,nyt,1
+clustering,The selected string includes detailed character portrayals.,38,nyt,1
+clustering,The selected string is structured as a television program review.,39,nyt,1
+clustering,The selected string uses a documentary-style narrative approach.,40,nyt,1
+clustering,The selected string includes direct quotes from the main subject.,41,nyt,1
+clustering,The selected string includes specific business examples and success stories.,42,nyt,1
+clustering,The selected string includes a specific location in Manhattan.,43,nyt,1
+clustering,The selected string includes a call to action for viewers.,44,nyt,1
+clustering,The selected string highlights cultural impact and representation.,45,nyt,1
+clustering,The selected string explores the boundary between reality and perception.,46,nyt,1
+clustering,The selected string includes detailed descriptions of design elements.,47,nyt,1
+clustering,The selected string includes political analysis and expert opinions.,48,nyt,1
+clustering,The selected string emphasizes myth versus reality in public perception.,49,nyt,1
+clustering,The selected string includes specific event dates and times.,0,nyt,2
+clustering,The selected string focuses on legal and constitutional issues.,1,nyt,2
+clustering,The selected string uses a positive and celebratory tone throughout.,2,nyt,2
+clustering,The selected string uses a celebratory and triumphant tone.,3,nyt,2
+clustering,The selected string discusses potential legal actions and responsibilities.,4,nyt,2
+clustering,The selected string includes a political context involving Panama.,5,nyt,2
+clustering,The selected string discusses historical context of military terminology.,6,nyt,2
+clustering,The selected string focuses on legal compliance and enforcement issues.,7,nyt,2
+clustering,The selected string uses rhetorical questions to engage the audience.,8,nyt,2
+clustering,The selected string addresses a specific error in a publication.,9,nyt,2
+clustering,"The selected string discusses a specific political figure, President Bush.",10,nyt,2
+clustering,The selected string includes specific exhibition dates and locations.,11,nyt,2
+clustering,The selected string is a correction notice.,12,nyt,2
+clustering,The selected string targets a local New Jersey setting.,13,nyt,2
+clustering,The selected string includes specific dates and locations.,14,nyt,2
+clustering,The selected string includes URLs and web navigation details.,15,nyt,2
+clustering,The selected string is set in New Jersey.,16,nyt,2
+clustering,The selected string is structured as a news summary.,17,nyt,2
+clustering,The selected string uses a casual and inviting tone.,18,nyt,2
+clustering,The selected string focuses on sports and athletic competition.,19,nyt,2
+clustering,The selected string highlights international sports events and teams.,20,nyt,2
+clustering,The selected string includes personal background details of a politician.,21,nyt,2
+clustering,The selected string highlights professional achievements in New York City.,22,nyt,2
+clustering,The selected string uses formal and authoritative language.,23,nyt,2
+clustering,The selected string includes specific military and legal actions.,24,nyt,2
+clustering,The selected string discusses legal and regulatory implications extensively.,25,nyt,2
+clustering,The selected string focuses on a sports event.,26,nyt,2
+clustering,The selected string features a narrative of redemption and controversy.,27,nyt,2
+clustering,The selected string includes direct quotes from athletes and coaches.,28,nyt,2
+clustering,The selected string includes specific monetary figures and transactions.,29,nyt,2
+clustering,The selected string involves international political and intelligence elements.,30,nyt,2
+clustering,The selected string is concise and straightforward in structure.,31,nyt,2
+clustering,The selected string highlights individual achievements and contributions.,32,nyt,2
+clustering,The selected string includes direct quotes from law enforcement.,33,nyt,2
+clustering,"The selected string has a neutral, factual tone.",34,nyt,2
+clustering,The selected string focuses on a single athlete's achievements and journey.,35,nyt,2
+clustering,The selected string focuses on travel deals and discounts.,36,nyt,2
+clustering,The selected string includes a detailed personal background.,37,nyt,2
+clustering,The selected string emphasizes a return to normalcy theme.,38,nyt,2
+clustering,The selected string discusses government policy and fiscal management.,39,nyt,2
+clustering,The selected string uses a narrative style with direct quotes.,40,nyt,2
+clustering,The selected string focuses on transportation infrastructure and development.,41,nyt,2
+clustering,The selected string discusses potential appeals and legal strategies.,42,nyt,2
+clustering,The selected string provides practical travel advice.,43,nyt,2
+clustering,The selected string involves international figures and geopolitical implications.,44,nyt,2
+clustering,The selected string highlights individual athletic performances.,45,nyt,2
+clustering,The selected string conveys a sense of communal fear and anxiety.,46,nyt,2
+clustering,The selected string includes specific geographic directions and distances.,47,nyt,2
+clustering,The selected string uses a formal and neutral tone.,48,nyt,2
+clustering,The selected string includes a resolution without legal action.,49,nyt,2
+clustering,The selected string mentions a current religious leader by name.,0,dbpedia,0
+clustering,The selected string uses a chronological narrative structure.,1,dbpedia,0
+clustering,The selected string uses technical identifiers like TC LID: CAG6.,2,dbpedia,0
+clustering,The selected string highlights achievements in the comic book field.,3,dbpedia,0
+clustering,The selected string is suitable for a general audience.,4,dbpedia,0
+clustering,The selected string mentions a specific sports league and team.,5,dbpedia,0
+clustering,The selected string includes a historical name change detail.,6,dbpedia,0
+clustering,The selected string includes specific awards and recognitions.,7,dbpedia,0
+clustering,The selected string includes a detailed personal history and background.,8,dbpedia,0
+clustering,The selected string mentions multiple geographic locations.,9,dbpedia,0
+clustering,The selected string lacks detailed historical or background context.,10,dbpedia,0
+clustering,The selected string includes detailed voice actor information.,11,dbpedia,0
+clustering,The selected string lacks personal or character-driven narrative elements.,12,dbpedia,0
+clustering,The selected string details a construction project and its implications.,13,dbpedia,0
+clustering,The selected string includes a significant emotional event.,14,dbpedia,0
+clustering,The selected string highlights a leadership role.,15,dbpedia,0
+clustering,The selected string mentions awards and nominations.,16,dbpedia,0
+clustering,The selected string features indoor games as a highlight.,17,dbpedia,0
+clustering,The selected string emphasizes character traits and abilities.,18,dbpedia,0
+clustering,The selected string highlights a specific year and event.,19,dbpedia,0
+clustering,The selected string discusses character creation and design process.,20,dbpedia,0
+clustering,The selected string targets sports enthusiasts and NFL fans.,21,dbpedia,0
+clustering,The selected string provides a detailed timeline of events.,22,dbpedia,0
+clustering,The selected string includes fictional characters and narrative elements.,23,dbpedia,0
+clustering,The selected string focuses on religious organizational structure.,24,dbpedia,0
+clustering,The selected string includes Japanese language and Hepburn romanization.,25,dbpedia,0
+clustering,The selected string references a specific media franchise.,26,dbpedia,0
+clustering,The selected string uses formal and factual language.,27,dbpedia,0
+clustering,The selected string highlights international recognition and cultural impact.,28,dbpedia,0
+clustering,The selected string focuses on an individual's professional achievements.,29,dbpedia,0
+clustering,The selected string emphasizes character's motivations and aspirations.,30,dbpedia,0
+clustering,The selected string includes multiple alternative spellings of the character's name.,31,dbpedia,0
+clustering,The selected string describes ownership and management details.,32,dbpedia,0
+clustering,The selected string specifies a leadership figure.,33,dbpedia,0
+clustering,The selected string focuses on a single individual's career.,34,dbpedia,0
+clustering,The selected string mentions a specific birth year and place.,35,dbpedia,0
+clustering,The selected string includes phonetic pronunciation of character's name.,36,dbpedia,0
+clustering,The selected string emphasizes team leadership and management roles.,37,dbpedia,0
+clustering,The selected string references an anime adaptation.,38,dbpedia,0
+clustering,The selected string includes a specific birth date.,39,dbpedia,0
+clustering,The selected string features a duo as central characters.,40,dbpedia,0
+clustering,The selected string focuses on a single individual.,41,dbpedia,0
+clustering,The selected string focuses on a single sports season.,42,dbpedia,0
+clustering,The selected string focuses on a transportation facility.,43,dbpedia,0
+clustering,The selected string focuses on ecclesiastical hierarchy.,44,dbpedia,0
+clustering,The selected string uses formal ecclesiastical terminology and titles.,45,dbpedia,0
+clustering,The selected string describes a specific geographical location.,46,dbpedia,0
+clustering,The selected string uses technical terms related to dam construction.,47,dbpedia,0
+clustering,The selected string lacks geographical or historical context.,48,dbpedia,0
+clustering,The selected string lacks detailed character or event descriptions.,49,dbpedia,0
+clustering,The selected string includes specific educational background details.,0,dbpedia,1
+clustering,"The selected string uses a formal, historical tone.",1,dbpedia,1
+clustering,The selected string includes a detailed family lineage.,2,dbpedia,1
+clustering,The selected string uses formal titles like 'Sir' and 'Baronet'.,3,dbpedia,1
+clustering,The selected string mentions knighthood and baronetcy creation.,4,dbpedia,1
+clustering,The selected string discusses a Supreme Court case.,5,dbpedia,1
+clustering,The selected string includes historical political context and figures.,6,dbpedia,1
+clustering,The selected string includes detailed genealogical information.,7,dbpedia,1
+clustering,The selected string provides detailed location and ownership information.,8,dbpedia,1
+clustering,The selected string includes specific event participation details.,9,dbpedia,1
+clustering,The selected string details a political career and achievements.,10,dbpedia,1
+clustering,The selected string mentions a specific Olympic participation.,11,dbpedia,1
+clustering,The selected string mentions a team mate by name.,12,dbpedia,1
+clustering,The selected string includes a specific birth date and place.,13,dbpedia,1
+clustering,The selected string uses quotation marks for emphasis.,14,dbpedia,1
+clustering,"The selected string uses a straightforward, factual tone.",15,dbpedia,1
+clustering,The selected string highlights a sports partnership.,16,dbpedia,1
+clustering,The selected string specifies a construction year.,17,dbpedia,1
+clustering,The selected string focuses on British aristocracy and lineage.,18,dbpedia,1
+clustering,The selected string lacks detailed personal or professional achievements.,19,dbpedia,1
+clustering,The selected string mentions a specific date of creation.,20,dbpedia,1
+clustering,The selected string includes a specific partner's name.,21,dbpedia,1
+clustering,The selected string omits any mention of career progression.,22,dbpedia,1
+clustering,The selected string involves the United States Supreme Court.,23,dbpedia,1
+clustering,The selected string includes architectural details.,24,dbpedia,1
+clustering,The selected string discusses procedural aspects of court case handling.,25,dbpedia,1
+clustering,"The selected string uses a straightforward, factual writing style.",26,dbpedia,1
+clustering,The selected string includes detailed personal life information.,27,dbpedia,1
+clustering,The selected string focuses on political achievements.,28,dbpedia,1
+clustering,The selected string details a specific marriage and offspring lineage.,29,dbpedia,1
+clustering,The selected string provides a specific year for an event.,30,dbpedia,1
+clustering,The selected string centers on a single individual's life event.,31,dbpedia,1
+clustering,The selected string specifies a retirement status of the athlete.,32,dbpedia,1
+clustering,The selected string mentions a specific birth location.,33,dbpedia,1
+clustering,The selected string is concise with minimal biographical details.,34,dbpedia,1
+clustering,The selected string uses a nickname in parentheses.,35,dbpedia,1
+clustering,The selected string includes specific sports statistics and achievements.,36,dbpedia,1
+clustering,The selected string includes a noble title.,37,dbpedia,1
+clustering,The selected string includes detailed match outcomes and rankings.,38,dbpedia,1
+clustering,The selected string highlights a specific championship win.,39,dbpedia,1
+clustering,The selected string mentions a specific career start year.,40,dbpedia,1
+clustering,The selected string focuses on legal jurisdiction and authority.,41,dbpedia,1
+clustering,The selected string covers a broader time span.,42,dbpedia,1
+clustering,The selected string lacks specific dates or chronological details.,43,dbpedia,1
+clustering,The selected string features a narrative of career transitions and challenges.,44,dbpedia,1
+clustering,The selected string involves constitutional law.,45,dbpedia,1
+clustering,The selected string focuses on an individual's sports achievements.,46,dbpedia,1
+clustering,The selected string focuses on a single baronetcy title.,47,dbpedia,1
+clustering,The selected string lacks specific event dates or achievements.,48,dbpedia,1
+clustering,The selected string includes specific team and league affiliations.,49,dbpedia,1
+clustering,The selected string includes specific race distances and conditions.,0,dbpedia,2
+clustering,The selected string specifies an exact event date.,1,dbpedia,2
+clustering,The selected string includes specific career achievements and accolades.,2,dbpedia,2
+clustering,The selected string focuses on a voice acting career.,3,dbpedia,2
+clustering,The selected string provides a specific birthdate and birthplace.,4,dbpedia,2
+clustering,The selected string includes historical context about its name origin.,5,dbpedia,2
+clustering,The selected string includes specific game statistics and records.,6,dbpedia,2
+clustering,The selected string uses a more narrative tone.,7,dbpedia,2
+clustering,The selected string includes specific birth and death dates.,8,dbpedia,2
+clustering,The selected string highlights a career in entertainment.,9,dbpedia,2
+clustering,The selected string describes a natural geographic feature.,10,dbpedia,2
+clustering,The selected string emphasizes cultural and ethnic background.,11,dbpedia,2
+clustering,The selected string includes specific dates for events.,12,dbpedia,2
+clustering,"The selected string focuses on a sports club, not individuals.",13,dbpedia,2
+clustering,The selected string includes specific race distance measurements.,14,dbpedia,2
+clustering,The selected string provides detailed geographical and hydrological information.,15,dbpedia,2
+clustering,The selected string uses precise metric measurements for distance.,16,dbpedia,2
+clustering,The selected string mentions a hiatus and subsequent return.,17,dbpedia,2
+clustering,The selected string includes indigenous language origin of river's name.,18,dbpedia,2
+clustering,The selected string includes monetary details of the event.,19,dbpedia,2
+clustering,The selected string specifies a river's flow direction.,20,dbpedia,2
+clustering,The selected string includes specific personal life details.,21,dbpedia,2
+clustering,The selected string mentions a specific sports venue.,22,dbpedia,2
+clustering,The selected string focuses on a single geographical location.,23,dbpedia,2
+clustering,The selected string focuses on ice hockey sports team history.,24,dbpedia,2
+clustering,The selected string uses technical geographical terminology.,25,dbpedia,2
+clustering,The selected string covers a longer professional career duration.,26,dbpedia,2
+clustering,The selected string uses a formal tone with technical race terms.,27,dbpedia,2
+clustering,The selected string lacks detailed event outcomes.,28,dbpedia,2
+clustering,The selected string includes a list of specific localities.,29,dbpedia,2
+clustering,The selected string highlights a career in American football.,30,dbpedia,2
+clustering,The selected string highlights historical success in championships.,31,dbpedia,2
+clustering,The selected string references a specific film genre.,32,dbpedia,2
+clustering,The selected string uses a nickname to describe the individual.,33,dbpedia,2
+clustering,The selected string mentions retirement from the industry.,34,dbpedia,2
+clustering,The selected string specifies a geographic location.,35,dbpedia,2
+clustering,The selected string includes a precise time frame of existence.,36,dbpedia,2
+clustering,The selected string uses a biographical narrative style.,37,dbpedia,2
+clustering,The selected string mentions a specific age group.,38,dbpedia,2
+clustering,The selected string includes a specific sports team affiliation.,39,dbpedia,2
+clustering,The selected string mentions a professional sports team affiliation.,40,dbpedia,2
+clustering,The selected string lacks detailed historical or personal achievements.,41,dbpedia,2
+clustering,The selected string uses a formal and informative tone.,42,dbpedia,2
+clustering,The selected string uses technical terms related to hydrology.,43,dbpedia,2
+clustering,The selected string mentions a specific race distance.,44,dbpedia,2
+clustering,The selected string lacks any sports or event-related content.,45,dbpedia,2
+clustering,The selected string lacks competitive or event-based context.,46,dbpedia,2
+clustering,The selected string focuses on an individual's biography.,47,dbpedia,2
+clustering,The selected string lists multiple teams the player has joined.,48,dbpedia,2
+clustering,The selected string includes Japanese characters and romanization.,49,dbpedia,2
+clustering,The selected string focuses on entertainment value and enjoyment.,0,amazon,0
+clustering,The selected string focuses on educational content for children.,1,amazon,0
+clustering,The selected string maintains a positive tone throughout.,2,amazon,0
+clustering,The selected string uses exclamations to convey excitement.,3,amazon,0
+clustering,The selected string focuses on a product defect.,4,amazon,0
+clustering,The selected string includes specific color details.,5,amazon,0
+clustering,The selected string conveys strong disappointment and frustration.,6,amazon,0
+clustering,The selected string lacks emotional or personal anecdotes.,7,amazon,0
+clustering,The selected string targets a multi-generational audience.,8,amazon,0
+clustering,The selected string uses vivid imagery and descriptive language.,9,amazon,0
+clustering,The selected string uses all caps for emphasis.,10,amazon,0
+clustering,The selected string includes a personal anecdote about a gift.,11,amazon,0
+clustering,The selected string focuses on crafting and DIY activities.,12,amazon,0
+clustering,The selected string discusses product customization and its implications.,13,amazon,0
+clustering,The selected string provides a detailed critique of product quality.,14,amazon,0
+clustering,"The selected string uses concise, positive language.",15,amazon,0
+clustering,The selected string focuses on personal clothing experience.,16,amazon,0
+clustering,The selected string is concise with minimal detail.,17,amazon,0
+clustering,The selected string highlights packaging and delivery speed.,18,amazon,0
+clustering,The selected string lacks emotional or descriptive language.,19,amazon,0
+clustering,The selected string has a nostalgic tone.,20,amazon,0
+clustering,The selected string focuses on a specific age group.,21,amazon,0
+clustering,The selected string conveys excitement with concise language.,22,amazon,0
+clustering,The selected string includes a specific product recommendation warning.,23,amazon,0
+clustering,The selected string expresses disappointment and dissatisfaction.,24,amazon,0
+clustering,The selected string focuses on a past viewing experience.,25,amazon,0
+clustering,The selected string uses a direct recommendation tone.,26,amazon,0
+clustering,The selected string uses a conversational tone with direct address.,27,amazon,0
+clustering,The selected string focuses on functionality over aesthetics.,28,amazon,0
+clustering,The selected string focuses on aesthetic appeal.,29,amazon,0
+clustering,The selected string suggests a specific style preference for wear.,30,amazon,0
+clustering,The selected string uses a sarcastic and humorous tone.,31,amazon,0
+clustering,The selected string mentions a specific character by name.,32,amazon,0
+clustering,The selected string employs metaphorical language to convey deeper meanings.,33,amazon,0
+clustering,The selected string uses a direct quote for emphasis.,34,amazon,0
+clustering,The selected string highlights emotional engagement with the film.,35,amazon,0
+clustering,The selected string uses an exclamatory title for emphasis.,36,amazon,0
+clustering,The selected string is a professional book review with author mention.,37,amazon,0
+clustering,The selected string includes a detailed plot summary.,38,amazon,0
+clustering,The selected string evaluates material properties for practical use.,39,amazon,0
+clustering,The selected string focuses on specific product dimensions and compatibility.,40,amazon,0
+clustering,"The selected string has a positive, enthusiastic tone.",41,amazon,0
+clustering,The selected string targets parents of young children.,42,amazon,0
+clustering,The selected string focuses on a child's interaction with gift.,43,amazon,0
+clustering,The selected string uses simple vocabulary and sentence structure.,44,amazon,0
+clustering,The selected string provides historical and cultural context.,45,amazon,0
+clustering,The selected string is concise and straightforward in its expression.,46,amazon,0
+clustering,The selected string uses HTML tags for formatting.,47,amazon,0
+clustering,The selected string emphasizes quick delivery and excitement.,48,amazon,0
+clustering,The selected string emphasizes imaginative play and creativity.,49,amazon,0
+clustering,The selected string uses precise measurements and specifications.,0,amazon,1
+clustering,The selected string is concise with a straightforward negative tone.,1,amazon,1
+clustering,The selected string describes a product failure incident.,2,amazon,1
+clustering,The selected string uses a first-person narrative perspective.,3,amazon,1
+clustering,The selected string uses a superlative for emphasis.,4,amazon,1
+clustering,The selected string lacks detailed product description.,5,amazon,1
+clustering,The selected string uses a direct reference to Amazon's service.,6,amazon,1
+clustering,The selected string includes a specific project application example.,7,amazon,1
+clustering,The selected string lacks emotional or sensory descriptions.,8,amazon,1
+clustering,The selected string includes a personal anecdote about a gift.,9,amazon,1
+clustering,The selected string includes a personal anecdote about family.,10,amazon,1
+clustering,The selected string emphasizes personal connection with a magazine subscription.,11,amazon,1
+clustering,The selected string includes a specific use case scenario.,12,amazon,1
+clustering,The selected string focuses on health and wellness.,13,amazon,1
+clustering,The selected string is concise with minimal elaboration.,14,amazon,1
+clustering,The selected string highlights ease of use and convenience.,15,amazon,1
+clustering,"The selected string suggests a broader, non-specific audience.",16,amazon,1
+clustering,The selected string encourages reader action with a direct suggestion.,17,amazon,1
+clustering,The selected string highlights a discrepancy between expectation and reality.,18,amazon,1
+clustering,The selected string focuses on versatility of the product.,19,amazon,1
+clustering,"The selected string lacks punctuation, creating a casual tone.",20,amazon,1
+clustering,The selected string suggests a solution for potential product issues.,21,amazon,1
+clustering,The selected string includes specific product comparisons.,22,amazon,1
+clustering,The selected string emphasizes product quality and safety.,23,amazon,1
+clustering,The selected string focuses on functionality over aesthetics.,24,amazon,1
+clustering,"The selected string uses a casual, conversational tone.",25,amazon,1
+clustering,The selected string mentions a size adjustment recommendation.,26,amazon,1
+clustering,The selected string includes a specific brand mention.,27,amazon,1
+clustering,The selected string lacks detailed explanations or examples.,28,amazon,1
+clustering,The selected string focuses on product functionality.,29,amazon,1
+clustering,The selected string is concise with a focus on simplicity.,30,amazon,1
+clustering,The selected string focuses on a single product's effectiveness.,31,amazon,1
+clustering,The selected string mentions a potential purchase discrepancy.,32,amazon,1
+clustering,The selected string mentions a specific geographic location.,33,amazon,1
+clustering,The selected string has a playful and lighthearted tone.,34,amazon,1
+clustering,The selected string targets consumers seeking product improvement solutions.,35,amazon,1
+clustering,The selected string lacks detailed product usage information.,36,amazon,1
+clustering,The selected string provides a warning about product usage.,37,amazon,1
+clustering,The selected string expresses brand loyalty and repeated purchases.,38,amazon,1
+clustering,The selected string lacks personal anecdotes or experiences.,39,amazon,1
+clustering,The selected string includes a personal preference statement.,40,amazon,1
+clustering,The selected string expresses uncertainty about future product use.,41,amazon,1
+clustering,The selected string focuses on children's product usage.,42,amazon,1
+clustering,The selected string expresses a personal wish or desire.,43,amazon,1
+clustering,The selected string focuses on practical application and performance.,44,amazon,1
+clustering,The selected string includes a brand name for specificity.,45,amazon,1
+clustering,The selected string focuses on packaging and assembly details.,46,amazon,1
+clustering,The selected string focuses on clothing fit and comfort.,47,amazon,1
+clustering,The selected string uses sensory details like smell and touch.,48,amazon,1
+clustering,The selected string focuses on general usefulness.,49,amazon,1
+clustering,The selected string highlights a specific product improvement.,0,amazon,2
+clustering,The selected string lacks emotional or personal anecdotes.,1,amazon,2
+clustering,The selected string uses a positive and optimistic tone.,2,amazon,2
+clustering,The selected string uses technical vocabulary related to hardware.,3,amazon,2
+clustering,The selected string emphasizes repeat purchase behavior.,4,amazon,2
+clustering,The selected string is concise with minimal elaboration.,5,amazon,2
+clustering,"The selected string uses a straightforward, factual tone.",6,amazon,2
+clustering,"The selected string describes a specific, unfortunate incident.",7,amazon,2
+clustering,The selected string focuses on taste and flavor.,8,amazon,2
+clustering,The selected string expresses intent to repurchase.,9,amazon,2
+clustering,The selected string focuses on product durability concerns.,10,amazon,2
+clustering,The selected string lacks any negative feedback or criticism.,11,amazon,2
+clustering,The selected string uses technical terms related to appliances.,12,amazon,2
+clustering,The selected string lacks detailed product usage information.,13,amazon,2
+clustering,The selected string uses humor to describe product experience.,14,amazon,2
+clustering,The selected string is brief and to the point.,15,amazon,2
+clustering,The selected string focuses on a human-dog interaction setting.,16,amazon,2
+clustering,The selected string is detailed about mechanical adjustments and implications.,17,amazon,2
+clustering,The selected string expresses a strong personal recommendation.,18,amazon,2
+clustering,"The selected string uses a straightforward, practical tone.",19,amazon,2
+clustering,The selected string conveys a positive and satisfied tone.,20,amazon,2
+clustering,The selected string compares two similar products directly.,21,amazon,2
+clustering,The selected string focuses on a household product installation.,22,amazon,2
+clustering,The selected string is concise and to the point.,23,amazon,2
+clustering,The selected string expresses strong dissatisfaction and disappointment.,24,amazon,2
+clustering,The selected string suggests situational use for awkward tasks.,25,amazon,2
+clustering,The selected string focuses on price comparison.,26,amazon,2
+clustering,"The selected string uses a positive, straightforward tone.",27,amazon,2
+clustering,The selected string suggests a DIY alternative to the product.,28,amazon,2
+clustering,The selected string provides a detailed narrative of the experience.,29,amazon,2
+clustering,The selected string uses a conversational tone.,30,amazon,2
+clustering,The selected string includes specific product functionality details.,31,amazon,2
+clustering,The selected string provides specific measurements and comparisons.,32,amazon,2
+clustering,The selected string emphasizes functionality and practicality of the product.,33,amazon,2
+clustering,The selected string lacks emotional or subjective language.,34,amazon,2
+clustering,The selected string is concise with a straightforward recommendation.,35,amazon,2
+clustering,The selected string includes a specific plan for future use.,36,amazon,2
+clustering,The selected string lacks any mention of product flaws or issues.,37,amazon,2
+clustering,The selected string references a visual aid (photo).,38,amazon,2
+clustering,The selected string includes a detailed description of product features.,39,amazon,2
+clustering,The selected string uses a positive tone throughout.,40,amazon,2
+clustering,"The selected string employs a humorous, sarcastic tone.",41,amazon,2
+clustering,The selected string mentions a minor limitation with a positive spin.,42,amazon,2
+clustering,The selected string focuses on packaging issues.,43,amazon,2
+clustering,The selected string uses technical product specifications.,44,amazon,2
+clustering,The selected string includes a personal anecdote.,45,amazon,2
+clustering,The selected string targets a specific product and brand.,46,amazon,2
+clustering,The selected string uses a reflective and personal tone.,47,amazon,2
+clustering,The selected string focuses on aesthetic appeal and visual matching.,48,amazon,2
+clustering,The selected string uses capital letters for emphasis.,49,amazon,2
