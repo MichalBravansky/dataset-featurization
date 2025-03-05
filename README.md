@@ -1,6 +1,10 @@
 # Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction
 
+<p align="center">
 <a href="https://www.arxiv.org/abs/2502.17541"><img src="https://img.shields.io/badge/📝-paper-blue"></a>
+<a href="https://huggingface.co/datasets/Bravansky/dataset-featurization"><img src="https://img.shields.io/badge/🤗-datasets-orange"></a>
+<a href="https://github.com/MichalBravansky/dataset-featurization"><img src="https://img.shields.io/badge/🔗-code-red"></a>
+</p>
 
 **Authors:**
 [Michal Bravansky](https://bravansky.com/),
